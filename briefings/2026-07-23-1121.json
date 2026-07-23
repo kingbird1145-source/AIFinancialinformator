@@ -1,0 +1,78 @@
+{
+  "generatedAt": "2026-07-23T11:21:16+08:00",
+  "coverageWindow": {
+    "start": "2026-07-23T08:00:00+08:00",
+    "end": "2026-07-23T11:21:16+08:00",
+    "timezone": "Asia/Hong_Kong"
+  },
+  "marketLayer": [
+    {
+      "title": "Oil-sensitive risk appetite",
+      "fact": "Zhitong reported elevated oil prices alongside declines of 3.69% in China Southern (01055.HK), 3.36% in Air China (00753.HK), and 2.21% in Cathay Pacific (00293.HK) at publication.",
+      "inference": "Inference: sustained energy-price pressure could remain a near-term headwind for transport earnings expectations.",
+      "keyUncertainty": "The feed does not provide the oil benchmark, intraday oil move, or the duration of the price shock.",
+      "source": "https://m.zhitongcaijing.com/content/detail/1437037.html"
+    },
+    {
+      "title": "Hong Kong trading tone",
+      "fact": "Zhitong's contemporaneous coverage showed sharp dispersion, including a 6.23% rise in SMIC (00981.HK) and weakness in airlines.",
+      "inference": "Inference: company catalysts and sector exposures may be driving trading more than a single broad-market factor in this window.",
+      "keyUncertainty": "No index-level closing or intraday performance was available in the retrieved feed.",
+      "source": "https://m.zhitongcaijing.com/web/s.html"
+    }
+  ],
+  "sectorLayer": [
+    {
+      "title": "Semiconductors",
+      "fact": "Zhitong reported SMIC (00981.HK) rose as much as 6.23% after its plan to acquire the remaining 49% of SMIC Beijing North was highlighted.",
+      "inference": "Inference: investors may view full ownership of an operating wafer-fab asset as supportive of consolidation and earnings attribution.",
+      "keyUncertainty": "Completion, timing, financing terms, and regulatory approvals remain material.",
+      "source": "https://m.zhitongcaijing.com/content/detail/1437047.html"
+    },
+    {
+      "title": "AI infrastructure",
+      "fact": "Zhitong reported that four large technology companies' 2026 AI capital expenditure is expected to approach US$725 billion.",
+      "inference": "Inference: if realised, this would continue to support demand visibility across data-centre, compute, networking and power-supply chains.",
+      "keyUncertainty": "The figure is an aggregate expectation and actual spending can change with monetisation, chip supply and macro conditions.",
+      "source": "https://m.zhitongcaijing.com/content/detail/1437036.html"
+    },
+    {
+      "title": "Consumer staples",
+      "fact": "Zhitong reported Mengniu Dairy (02319.HK) rose 3.11% intraday, citing signs that first-quarter sell-through was stabilising and recovering.",
+      "inference": "Inference: improving channel trends could ease concerns about volume and margin pressure in dairy.",
+      "keyUncertainty": "One quarter's sell-through signal may not establish a durable demand recovery, and the underlying operating data were not independently verified here.",
+      "source": "https://m.zhitongcaijing.com/content/detail/1437033.html"
+    }
+  ],
+  "stockLayer": [
+    {
+      "title": "SMIC (00981.HK)",
+      "fact": "Zhitong reported the company was up 6.23% intraday while pursuing the purchase of the remaining 49% stake in SMIC Beijing North.",
+      "inference": "Inference: the event could concentrate ownership of a profitable or strategic manufacturing asset within the listed group.",
+      "keyUncertainty": "Valuation, dilution and final approval conditions determine the economic benefit to shareholders.",
+      "source": "https://m.zhitongcaijing.com/content/detail/1437047.html"
+    },
+    {
+      "title": "InSilico Medicine (03696.HK)",
+      "fact": "Zhitong reported a US$105 million wealth-management-product subscription and said cash assets had increased by US$149 million from year-end, mainly from pipeline upfront payments and other inflows.",
+      "inference": "Inference: the disclosed liquidity increase may lengthen funding visibility for the development pipeline.",
+      "keyUncertainty": "Product terms, liquidity, counterparty exposure, cash burn and future milestone receipts are not detailed in the retrieved feed.",
+      "source": "https://m.zhitongcaijing.com/content/detail/1437043.html"
+    },
+    {
+      "title": "Fudan-Zhangjiang (01349.HK)",
+      "fact": "Zhitong reported first-quarter attributable profit of about RMB7.71 million, up 189.36% year on year, alongside an intraday share gain of about 2.9%.",
+      "inference": "Inference: the result may improve sentiment toward near-term operating leverage.",
+      "keyUncertainty": "The sustainability of the earnings change, recurring versus non-recurring components, and subsequent trial or commercial milestones remain unclear.",
+      "source": "https://m.zhitongcaijing.com/web/s.html"
+    }
+  ],
+  "sources": [
+    {"title": "Zhitong live news feed", "url": "https://m.zhitongcaijing.com/web/s.html"},
+    {"title": "SMIC market update", "url": "https://m.zhitongcaijing.com/content/detail/1437047.html"},
+    {"title": "Airline-sector market update", "url": "https://m.zhitongcaijing.com/content/detail/1437037.html"},
+    {"title": "AI-capex market update", "url": "https://m.zhitongcaijing.com/content/detail/1437036.html"},
+    {"title": "Mengniu market update", "url": "https://m.zhitongcaijing.com/content/detail/1437033.html"},
+    {"title": "InSilico Medicine disclosure update", "url": "https://m.zhitongcaijing.com/content/detail/1437043.html"}
+  ]
+}
