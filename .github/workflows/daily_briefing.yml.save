@@ -1,0 +1,38 @@
+name: Automated Financial Briefing
+
+on:
+  schedule:
+    # Runs at 17:44 HKT (09:44 UTC) every day (16 mins before 18:00 HKT)
+    - cron: '44 9 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  update-briefing:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install google-genai
+
+      - name: Run Briefing Script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python fetch_briefing.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add briefings/
+          git commit -m "auto: daily briefing update [skip ci]" || exit 0
+          git push
+
