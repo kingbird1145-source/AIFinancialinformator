@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Tech & AI Infrastructure",
+      "fact": "Major US cloud hyperscalers reported increased Q2 capital expenditure plans targeted at AI server infrastructure, while semiconductor suppliers saw mixed performance amid updated export policy reviews.",
+      "inference": "High capital spending secures strong revenue visibility for upstream hardware vendors, though short-term margin compression remains a concern for cloud providers until AI software monetization accelerates.",
+      "keyUncertainty": "Sustainability of enterprise AI spending growth and potential tighter controls on cross-border technology transfers."
+    },
+    {
+      "title": "Hong Kong Tech & Digital Platforms",
+      "fact": "The Hang Seng Tech Index rallied as major Chinese internet platform operators announced expanded share buyback initiatives and reported stabilized ad revenue growth.",
+      "inference": "Enhanced shareholder return programs combined with disciplined cost management continue to rebuild investor confidence and support valuation multiples across HK-listed platform giants.",
+      "keyUncertainty": "Intensity of domestic price wars in local services and logistics, as well as the overall pace of Chinese retail consumption recovery."
+    },
+    {
+      "title": "Chinese New Energy Vehicles (NEVs)",
+      "fact": "Leading Hong Kong-listed Chinese EV makers posted solid mid-month delivery numbers, supported by aggressive promotional campaigns and new model rollouts.",
+      "inference": "Industry consolidation is favoring top-tier EV OEMs with superior supply-chain integration, driving volume growth at the expense of weaker entrants.",
+      "keyUncertainty": "Evolving foreign trade barrier policies, including European Union tariff implementations, and domestic margin compression."
+    },
+    {
+      "title": "US Macro Policy & Global Liquidity",
+      "fact": "Recent US inflation and labor market data signaled a gradual economic cooling, maintaining market expectations for Fed policy easing in the second half of the year and keeping US Treasury yields range-bound.",
+      "inference": "A stabilizing interest rate backdrop reduces macro headwinds for growth equities and helps lower overall borrowing costs, potentially encouraging fund flows back into Asian emerging markets.",
+      "keyUncertainty": "Risk of unexpected inflation reigniting due to supply chain disruptions or sticky service sector costs."
+    }
+  ]
+}
