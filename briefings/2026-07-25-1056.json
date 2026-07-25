@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Semiconductor & Big Tech Capital Expenditure Trends",
+      "fact": "Major US cloud hyperscalers announced increased H2 2026 capital expenditures targeting AI infrastructure, triggering a rally across semiconductor components and server hardware stocks.",
+      "inference": "Sustained capex expansion reinforces revenue visibility for upstream chip suppliers and server makers, sustaining elevated valuations in the US tech sector.",
+      "keyUncertainty": "Risk of monetization delays for enterprise AI applications and potential supply chain bottlenecks in advanced packaging."
+    },
+    {
+      "title": "HK Tech Index Momentum & Corporate Share Buybacks",
+      "fact": "The Hang Seng Tech Index advanced as key constituents including Tencent, Meituan, and Alibaba executed substantial share buyback programs following positive H2 operational updates.",
+      "inference": "Aggressive corporate repurchases continue to establish a valuation floor for HK platform internet equities, attracting selective institutional capital flows.",
+      "keyUncertainty": "Uncertainty regarding the broader domestic consumption recovery trajectory and competitive pricing dynamics in e-commerce and local services."
+    },
+    {
+      "title": "Fed Rate Expectations & Global Liquidity Sentiment",
+      "fact": "Softer US economic data releases reinforced market expectations for a Federal Reserve rate cut in Q3 2026, putting modest downward pressure on the US Dollar Index.",
+      "inference": "Easing global yields improve liquidity conditions and risk appetite for high-beta Hong Kong equities and emerging market assets.",
+      "keyUncertainty": "Potential volatility in commodity prices and sticky core inflation metrics that could alter central bank easing timelines."
+    },
+    {
+      "title": "Chinese EV Market Dynamics & International Expansion",
+      "fact": "Leading Chinese EV manufacturers reported strong export growth into Southeast Asia and Latin American markets for H1 2026, offsetting intense domestic price competition.",
+      "inference": "Overseas market expansion offers high-margin growth avenues for top-tier HK-listed EV firms with established global logistics and dealer networks.",
+      "keyUncertainty": "Evolving trade policies, prospective foreign tariff adjustments, and margin compression from domestic promotional campaigns."
+    }
+  ]
+}
