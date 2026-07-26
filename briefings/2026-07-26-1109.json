@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech & Semiconductors",
+      "fact": "Major US tech hyper-scalers report continued capital expenditure expansion into AI infrastructure, while software revenue monetization demonstrates a mixed pace across recent earnings disclosures.",
+      "inference": "Semiconductor equipment and chip designers maintain solid order visibility, though broader megacap valuations remain vulnerable to pullbacks if cloud providers fail to show immediate AI-driven margin expansion.",
+      "keyUncertainty": "Sustainability of hyper-scaler AI capital spending trajectories amid energy grid capacity constraints and elevated interest rate environments."
+    },
+    {
+      "title": "Hong Kong Tech & Southbound Inflows",
+      "fact": "The Hang Seng Tech Index showed resilience driven by strong daily net inflows via Southbound Stock Connect, prioritizing platform internet giants and consumer hardware leaders.",
+      "inference": "Mainland institutional capital is providing a supportive floor for HK-listed tech valuations, offsetting persistent offshore macro headwinds and foreign exchange fluctuations.",
+      "keyUncertainty": "Quarterly earnings delivery capabilities among key platform internet stocks and shifts in global risk sentiment affecting broader Hong Kong liquidity."
+    },
+    {
+      "title": "Chinese EVs & Clean Energy",
+      "fact": "Leading Chinese EV producers announced accelerated global market penetration strategies targeting South America and Southeast Asia alongside stabilizing domestic retail pricing.",
+      "inference": "Overseas volume expansion offers a path to offset domestic margin pressure, benefiting established players with scale benefits and vertical integration in battery supply chains.",
+      "keyUncertainty": "Potential regulatory shifts, foreign tariffs, and local content requirements in key export markets."
+    }
+  ]
+}
