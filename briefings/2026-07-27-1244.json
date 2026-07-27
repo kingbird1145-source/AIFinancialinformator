@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Tech & AI Infrastructure Capex",
+      "fact": "Major US technology giants reported earnings highlighting sustained high capital expenditure in AI data centers, alongside mixed cloud growth trajectories.",
+      "inference": "Hyperscaler spending continues to support hardware supply chain revenues, though short-term market sentiment remains sensitive to ROI timelines.",
+      "keyUncertainty": "Monetization pace of enterprise AI tools and potential revisions to full-year cloud margin guidance."
+    },
+    {
+      "title": "HK Internet Platform Recovery & Southbound Inflows",
+      "fact": "The Hang Seng Tech Index closed higher led by heavyweights Tencent and Meituan, supported by net Southbound capital buying exceeding HKD 4 billion.",
+      "inference": "Institutional capital is returning to attractive valuation levels in Chinese internet leaders amid stabilizing domestic competition and expanding shareholder buyback programs.",
+      "keyUncertainty": "Sustainability of Southbound inflows if broader macro consumer recovery data misses market expectations."
+    },
+    {
+      "title": "Global Semiconductor & Export Regulations",
+      "fact": "Leading chip foundry and equipment makers faced intraday volatility following discussions regarding updated international trade policies and supply chain adjustments.",
+      "inference": "Supply chain restructuring accelerates domestic substitution trends in Asian markets, while global chip suppliers face regional revenue fragmentation.",
+      "keyUncertainty": "Specific timeline and regulatory scope of newly proposed cross-border tech restrictions."
+    },
+    {
+      "title": "China New Energy Vehicles & Consumer Stimulus",
+      "fact": "Hong Kong-listed EV makers and consumer discretionary stocks gained traction following policy briefings signaling extended auto trade-in subsidies and regional consumption vouchers.",
+      "inference": "Targeted fiscal stimulus provides downside protection for vehicle sales volumes in H2, favoring well-capitalized industry leaders with strong export channels.",
+      "keyUncertainty": "Price war intensity among domestic auto manufacturers potentially eroding near-term operating margins."
+    }
+  ]
+}
