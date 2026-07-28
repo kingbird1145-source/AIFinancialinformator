@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech Giants & AI Cloud Monetization",
+      "fact": "Major HK-listed tech conglomerates reported a 35% YoY increase in cloud AI infrastructure revenue during Q2, driven by surging enterprise demand for generative AI API integrations.",
+      "inference": "Monetization of enterprise AI services in China is accelerating, helping offset soft consumer e-commerce growth and supporting a valuation re-rating for top-tier HK internet stocks.",
+      "keyUncertainty": "High capital expenditure on advanced AI infrastructure may compress short-term margins if enterprise API pricing competition intensifies."
+    },
+    {
+      "title": "US Semiconductor & Hyperscaler Capex Momentum",
+      "fact": "Leading US cloud service providers reaffirmed increased capital expenditure commitments for multi-year AI server deployments, boosting major US chipmaker and equipment manufacturer shares.",
+      "inference": "Upstream semiconductor design and capital equipment vendors maintain strong order visibility, decoupling their growth trajectories from broader consumer electronics demand softness.",
+      "keyUncertainty": "Potential tightening of export control regulations and capacity constraints in advanced CoWoS packaging technology."
+    },
+    {
+      "title": "HKEX Innovative Biotech (18A) Out-Licensing Deals",
+      "fact": "Three HK-listed 18A biotech companies announced cross-border out-licensing transactions totaling over $1.8 billion in upfront and milestone payments with top global pharmaceutical majors.",
+      "inference": "Global validation of domestic oncology and autoimmune pipelines provides substantial non-dilutive capital, improving balance sheet resilience for commercial-stage HK biotechs.",
+      "keyUncertainty": "Regulatory approval delays in target overseas jurisdictions and clinical trial execution risks."
+    },
+    {
+      "title": "US Macro Inflation Data & Fed Monetary Expectations",
+      "fact": "US core inflation metrics printed in line with consensus expectations at 2.6% YoY, reinforcing market expectations for a Federal Reserve rate easing cycle later in the quarter.",
+      "inference": "Lower Treasury yields ease global liquidity pressure, creating a favorable macro backdrop for growth equities in both US tech and HK-listed risk assets.",
+      "keyUncertainty": "Labor market resilience or unexpected energy price spikes potentially slowing the Fed's pace of rate cuts."
+    }
+  ]
+}
