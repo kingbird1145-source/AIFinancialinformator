@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "Hong Kong Tech Stocks & Share Buybacks",
+      "fact": "Mainstream HK tech giants including Tencent and Meituan sustained active share repurchase programs during today's trading session, providing downside support to the Hang Seng Tech Index despite modest total market turnover.",
+      "inference": "Persistent repurchase execution signals strong corporate cash flow resilience and management confidence, helping establish a valuation floor for major Chinese internet equities.",
+      "keyUncertainty": "Subdued broader mainland consumer spending metrics and persistent foreign institutional capital rebalancing."
+    },
+    {
+      "title": "US Semiconductor & AI Infrastructure Spending",
+      "fact": "US semiconductor and hardware vendors saw momentum following updated hyperscaler capital expenditure forecasts indicating expanded investment in AI server buildouts.",
+      "inference": "Enterprise AI capital commitments continue to shield leading chipmakers from broader consumer hardware demand cyclicality, maintaining strong institutional allocations.",
+      "keyUncertainty": "Advanced packaging supply chain bottlenecks and potential tighter export compliance constraints."
+    },
+    {
+      "title": "China New Energy Vehicle (NEV) Sector",
+      "fact": "HK-listed EV manufacturers reported resilient monthly delivery figures, buoyed by localized vehicle trade-in subsidies and expanding export volumes to Southeast Asia.",
+      "inference": "Global market expansion is helping top-tier domestic automakers offset aggressive domestic price competition and preserve operating margins.",
+      "keyUncertainty": "Regulatory scrutiny and shifting tariff policies in key overseas export markets."
+    }
+  ]
+}
