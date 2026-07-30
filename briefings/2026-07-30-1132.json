@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech Stocks & Southbound Capital Inflows",
+      "fact": "The Hang Seng Tech Index saw increased volume today as Southbound capital recorded a net inflow of HKD 5.2 billion, with major allocations focused on Tencent, Meituan, and Xiaomi.",
+      "inference": "Sustained liquidity support from mainland institutional investors is helping establish a valuation floor for major internet platform companies ahead of the upcoming earnings season.",
+      "keyUncertainty": "Quarterly earnings guidance from key platform players and potential macro policy shifts in mainland China."
+    },
+    {
+      "title": "US Semiconductor CapEx & AI Hardware Demand",
+      "fact": "Leading US hyperscalers reiterated elevated CapEx guidance aimed at AI infrastructure, boosting sentiment across semiconductor supply chains and hardware equipment providers.",
+      "inference": "High capital spending commitments from major cloud providers offer strong near-term revenue visibility for top GPU suppliers and foundry leaders.",
+      "keyUncertainty": "The pace of enterprise AI monetization and potential supply chain bottlenecks in advanced packaging."
+    },
+    {
+      "title": "Fed Rate Path & HK Banking Sector Yields",
+      "fact": "US 10-year Treasury yields held steady following mixed economic data, while HIBOR rates saw mild recalibration, influencing Hong Kong high-dividend banking stocks.",
+      "inference": "Stabilizing net interest margins (NIM) continue to support attractive dividend yields for Hong Kong banking majors, drawing defensive yield-seeking capital.",
+      "keyUncertainty": "The exact timing and magnitude of Federal Reserve rate adjustments in the second half of the year."
+    }
+  ]
+}
