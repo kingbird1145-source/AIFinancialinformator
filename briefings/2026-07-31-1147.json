@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "Hong Kong Internet Giants & Southbound Capital Inflows",
+      "fact": "The Hang Seng Tech Index rose 1.8% as Southbound net inflows exceeded HKD 5.2 billion, concentrated largely in Tencent and Meituan following positive domestic consumption updates.",
+      "inference": "Mainland institutional investors continue to leverage low valuation windows in HK-listed tech giants, providing liquidity support against broader macroeconomic softness.",
+      "keyUncertainty": "Sustainability of domestic consumer recovery and potential shifts in global risk appetite."
+    },
+    {
+      "title": "US Big Tech AI Infrastructure Capex",
+      "fact": "US tech megacaps signaled continued upward revisions for 2026 capital expenditures on cloud and AI hardware, alongside mixed near-term margin guidance.",
+      "inference": "Sustained demand for semiconductor and AI hardware suppliers, though software and cloud platforms face heightened investor scrutiny over ROI timelines.",
+      "keyUncertainty": "Pace of enterprise AI monetization and potential supply chain bottlenecks in advanced chip packaging."
+    },
+    {
+      "title": "Federal Reserve Rate Expectations & Global FX Dynamics",
+      "fact": "Recent US labor market cooling data reinforced market pricing for a September Fed rate cut, pulling the US Dollar Index down below key technical support levels.",
+      "inference": "Easing yield pressure benefits Hong Kong dollar-denominated assets and liquidity-sensitive high-dividend yield sectors like HK utilities and telecom.",
+      "keyUncertainty": "Upcoming core PCE inflation readouts potentially challenging the dovish monetary policy trajectory."
+    },
+    {
+      "title": "China EV & New Energy Price Competition",
+      "fact": "Leading mainland EV manufacturers announced renewed promotional subsidies and export acceleration strategies targeting Southeast Asian and European markets.",
+      "inference": "Domestic gross margins remain under pressure, pushing OEMs to aggressive overseas expansion to maintain margin durability.",
+      "keyUncertainty": "Evolving foreign anti-dumping investigations and international tariff policies."
+    }
+  ]
+}
