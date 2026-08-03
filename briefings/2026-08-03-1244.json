@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Tech & AI Infrastructure",
+      "fact": "Major US technology firms report sustained capital expenditure growth in AI infrastructure, with cloud service segments showing double-digit revenue expansion.",
+      "inference": "Semiconductor manufacturers and data center component suppliers are likely to maintain strong order visibility in the near to medium term.",
+      "keyUncertainty": "Risk of power grid bottlenecks delaying data center deployments and investor scrutiny over long-term return on AI investments."
+    },
+    {
+      "title": "Hong Kong Platform & E-Commerce",
+      "fact": "Hang Seng Tech Index stocks show stabilized valuations supported by ongoing corporate share buybacks and enhanced AI-driven monetization strategies.",
+      "inference": "Share repurchase programs provide a downside cushion for major internet heavyweights, though aggressive promotional spending caps immediate profit margin upside.",
+      "keyUncertainty": "Uncertainty surrounding domestic consumer confidence recovery and potential international trade policy friction for cross-border platforms."
+    },
+    {
+      "title": "Fed Policy & Rate-Sensitive Assets",
+      "fact": "US economic indicators point toward moderating labor tightness and cooling inflation, fueling market expectations for incoming interest rate adjustments.",
+      "inference": "High-yielding HK dividend stocks and US rate-sensitive sectors (such as REITs and utilities) may attract rebalancing capital flows as Treasury yields ease.",
+      "keyUncertainty": "Potential sticky core service inflation components pushing back the timing or pace of monetary policy easing."
+    }
+  ]
+}
