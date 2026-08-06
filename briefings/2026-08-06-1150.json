@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Mega-Cap Tech & AI Infrastructure Capex",
+      "fact": "Leading US technology conglomerates reported accelerating cloud segment growth alongside increased capital expenditure guidance directed toward AI data center capacity.",
+      "inference": "High capital spending strengthens medium-term revenue visibility for semiconductor designers and advanced packaging supply chains, despite creating short-term gross margin pressure for platform operators.",
+      "keyUncertainty": "The timeline for software-layer monetization to yield expected return on invested capital."
+    },
+    {
+      "title": "HK Internet & Digital Economy Majors",
+      "fact": "Hong Kong-listed Chinese internet giants reported improved profit margins supported by operational efficiency and steady recovery in digital advertising.",
+      "inference": "Enhanced free cash flow and persistent share buyback programs provide strong valuation downside protection, though top-line acceleration remains contingent on macroeconomic tailwinds.",
+      "keyUncertainty": "Pace of mainland consumer spending momentum and competitive dynamics in domestic e-commerce."
+    },
+    {
+      "title": "Electric Vehicle & New Energy Supply Chain",
+      "fact": "Chinese NEV manufacturers announced additional price promotional strategies to expand domestic market presence while expanding export shipments.",
+      "inference": "Accelerating industry consolidation will likely concentrate market share among top-tier producers with cost leadership, while secondary brands face margin compression.",
+      "keyUncertainty": "Potential revisions to overseas trade tariffs and regional protectionist policies."
+    }
+  ]
+}
