@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US & HK Tech Infrastructure & AI Capex",
+      "fact": "US chipmakers and HK-listed tech giants report sustained surge in data center capital expenditures, alongside double-digit growth in cloud business revenues.",
+      "inference": "High capital spending reinforces upstream semiconductor valuation multiples while putting pressure on software firms to accelerate AI monetization.",
+      "keyUncertainty": "Potential delays in end-user enterprise AI adoption and capital efficiency scrutiny from institutional investors."
+    },
+    {
+      "title": "HK-Listed E-Commerce & Cross-Border Logistics",
+      "fact": "Major Chinese e-commerce platforms show steady GMV stabilization due to aggressive summer promotional campaigns and expanded overseas shipping networks.",
+      "inference": "Domestic margin compression will be partially offset by high-margin cross-border logistics growth, favoring integrated platform plays.",
+      "keyUncertainty": "Evolving overseas tariff policies and persistent price-war pressures in the domestic retail landscape."
+    },
+    {
+      "title": "US Monetary Policy Outlook & HK Banking Liquidity",
+      "fact": "US economic data reflects moderating inflation alongside stable payroll numbers, sustaining market pricing for gradual rate adjustments.",
+      "inference": "HIBOR is expected to stay range-bound, preserving net interest margins for major HK banks while offering relief to property developer financing costs.",
+      "keyUncertainty": "Re-acceleration of global inflation energy spikes that could alter the central bank easing trajectory."
+    }
+  ]
+}
