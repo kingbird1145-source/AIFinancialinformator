@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Tech & Semiconductor Sector",
+      "fact": "Major US semiconductor giants traded mixed as robust demand for next-generation AI accelerators was counterbalanced by potential updates to international export compliance policies.",
+      "inference": "High-valuation tech equities remain hyper-sensitive to geopolitical policy shifts, even as baseline infrastructure spending on AI computing power stays strong.",
+      "keyUncertainty": "Final regulatory scope of tech export restrictions and upcoming corporate guidance on gross margin sustainability."
+    },
+    {
+      "title": "Hong Kong Internet & Platform Economy",
+      "fact": "HK-listed Chinese internet heavyweights logged selective gains following earnings reports that highlighted disciplined cost management and increased share buyback programs.",
+      "inference": "Capital flows are favoring cash-generative internet firms prioritizing shareholder returns and operational efficiency over aggressive market-share expansion.",
+      "keyUncertainty": "Pace of domestic consumer sentiment recovery and competitive intensity in core e-commerce and local services."
+    },
+    {
+      "title": "Global Macro & HK Liquidity Dynamics",
+      "fact": "US inflation metrics aligned closely with forecasts, reinforcing market expectations for central bank policy easing later in the year and pushing Treasury yields lower.",
+      "inference": "Easing US yields offer room for HIBOR (Hong Kong Interbank Offered Rate) to soften, providing liquidity relief to local equity valuations and real estate capital costs.",
+      "keyUncertainty": "Sticky service-sector inflation data in the US and broader macroeconomic growth trajectory in Mainland China."
+    }
+  ]
+}
