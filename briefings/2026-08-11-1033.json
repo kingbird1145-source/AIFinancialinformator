@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "Hong Kong Tech Sector Momentum",
+      "fact": "The Hang Seng Tech Index gained 2.1% today, driven by solid earnings preview reports from major Chinese internet platforms, with cloud and local services showing steady revenue recovery.",
+      "inference": "Commercial monetization of AI applications and ongoing cost-optimization strategies are beginning to reflect positively on valuation multiples for major platform operators.",
+      "keyUncertainty": "Sustained execution of cloud revenue growth and potential macroeconomic drag on consumer spending."
+    },
+    {
+      "title": "US Semiconductor & AI Infrastructure",
+      "fact": "Leading US chipmakers experienced pre-market gains following upward revisions in server hardware shipment forecasts and elevated capital expenditure plans by major cloud providers.",
+      "inference": "Enterprise spending on AI infrastructure remains resilient, offsetting near-term softness in consumer electronics demand.",
+      "keyUncertainty": "Advanced semiconductor packaging capacity constraints and upcoming Federal Reserve monetary policy signaling."
+    },
+    {
+      "title": "Chinese New Energy Vehicle (NEV) Segment",
+      "fact": "HK-listed EV manufacturers showed divergent performance after preliminary mid-year delivery reports revealed widening market share gaps between industry leaders and smaller peers.",
+      "inference": "Market consolidation is accelerating, favoring companies with stronger supply chain integration, overseas export expansion, and robust cash flow.",
+      "keyUncertainty": "Potential adjustments in international trade tariffs and domestic price competition intensity."
+    }
+  ]
+}
