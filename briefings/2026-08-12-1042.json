@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech & Enterprise Cloud",
+      "fact": "The Hang Seng Tech Index rose 1.8% today, led by strong Southbound capital inflows into major internet and cloud giants following accelerated domestic AI commercialization reports.",
+      "inference": "Institutional investors are re-rating Chinese tech majors as monetization pathways for enterprise AI solutions become increasingly tangible.",
+      "keyUncertainty": "Sustained geopolitical friction regarding foreign technology access and advanced hardware import constraints."
+    },
+    {
+      "title": "US Mega-Cap Semiconductor & AI Infrastructure",
+      "fact": "US semiconductor shares rallied overnight after leading cloud service providers reaffirmed elevated capital expenditure commitments for next-generation data center expansions.",
+      "inference": "Robust downstream capex maintains high earnings visibility across the AI hardware supply chain, providing cross-market support to Asian tech export suppliers.",
+      "keyUncertainty": "Macroeconomic risks around the Federal Reserve rate path and potential margin compression if infrastructure spending outpaces near-term software revenues."
+    },
+    {
+      "title": "HK New Energy Vehicles (NEV)",
+      "fact": "Leading Chinese NEV makers posted strong mid-month delivery estimates supported by expanded city-level consumer trade-in subsidies.",
+      "inference": "Domestic delivery volume strength is expected to buffer revenue against persistent price competition in the lower-to-mid market segments.",
+      "keyUncertainty": "Evolving international trade barriers and prospective tariff adjustments targeting foreign automotive exports."
+    }
+  ]
+}
