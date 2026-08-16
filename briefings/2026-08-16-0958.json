@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "U.S. Big Tech & AI Semiconductor Momentum",
+      "fact": "U.S. mega-cap tech and semiconductor stocks rallied following robust enterprise earnings and sustained cloud capex commitments for AI infrastructure.",
+      "inference": "Sustained corporate spending on AI hardware offers medium-term earnings visibility across global semiconductor and hardware supply chain partners.",
+      "keyUncertainty": "Regulatory scrutiny on trade restrictions and potential supply chain bottlenecks for advanced packaging capacity."
+    },
+    {
+      "title": "Hong Kong Hang Seng Tech Index & Southbound Capital Flows",
+      "fact": "Hong Kong's Hang Seng Tech Index gained momentum supported by steady Southbound capital inflows through Stock Connect into major domestic platform operators.",
+      "inference": "Low valuations combined with aggressive share buyback programs are improving risk-reward profiles for institutional investors re-allocating to HK equities.",
+      "keyUncertainty": "Pace of mainland domestic consumer spending recovery and ongoing price competition within e-commerce and local services."
+    },
+    {
+      "title": "U.S. Rate Cut Expectations & Macro Liquidity Dynamics",
+      "fact": "U.S. economic indicators showed moderating inflation signals, reinforcing expectations of near-term Federal Reserve monetary easing.",
+      "inference": "Easing U.S. Treasury yields relieve funding pressures on Hong Kong's banking system and improve overall valuations for rate-sensitive assets.",
+      "keyUncertainty": "Unexpected persistence in services inflation or geopolitical shocks affecting energy markets."
+    }
+  ]
+}
