@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Mega-Cap Tech & AI Infrastructure Investment",
+      "fact": "Major US technology leaders reported ongoing capital expenditure growth dedicated to AI data centers, while core cloud division revenues expanded over 20% year-over-year.",
+      "inference": "Continued high CapEx spending sustains strong order visibility for upstream semiconductor vendors and network equipment providers, backing growth valuations in the US tech sector.",
+      "keyUncertainty": "Pace of software-level AI monetization and potential corporate margin pressure if cloud spending momentum cools."
+    },
+    {
+      "title": "HK Tech & China Internet Capital Return Programs",
+      "fact": "Hang Seng Tech Index components showed steady net inflows, bolstered by large-scale daily share repurchases from major platform operators including Tencent and Meituan through Southbound Stock Connect.",
+      "inference": "Enhanced shareholder yield through buybacks and dividends establishes a valuation floor for leading Chinese internet firms, drawing long-term institutional allocation.",
+      "keyUncertainty": "Pace of broader domestic consumer spending recovery and competition dynamics within local life services."
+    },
+    {
+      "title": "Federal Reserve Rate Expectations & US Yield Curve",
+      "fact": "US inflation indicators matched forecasts, maintaining market-implied probabilities for a 25 bps interest rate reduction at the upcoming FOMC meeting above 80% while 10-year Treasury yields settled around 4.15%.",
+      "inference": "Stabilizing treasury yields reduce discount-rate volatility for growth equities, easing capital cost pressure across high-duration equity sectors.",
+      "keyUncertainty": "Upcoming labor market prints or unexpected energy cost spikes threatening inflation convergence."
+    },
+    {
+      "title": "Hong Kong Banking & Real Estate Liquidity",
+      "fact": "Hong Kong Interbank Offered Rates (HIBOR) trended slightly lower across key short-term tenors, while primary residential property sales showed localized volume pick-up following promotional pricing.",
+      "inference": "Easing liquidity pressures mitigate funding costs for local property developers and banks, though margin compression remains a consideration for financial sector earnings.",
+      "keyUncertainty": "Persistence of high USD/HKD interest rate differentials and real estate transaction momentum continuity."
+    }
+  ]
+}
