@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech & Cloud AI Infrastructure",
+      "fact": "Leading Hong Kong-listed tech platforms reported accelerated enterprise adoption of generative AI tools and double-digit growth in Q2 cloud compute utilization.",
+      "inference": "Commercialization of AI application layers is beginning to translate into tangible top-line contributions, supporting structural re-rating across major HK internet software names.",
+      "keyUncertainty": "Execution risks regarding local infrastructure costs and persistent US export controls on advanced hardware."
+    },
+    {
+      "title": "US Semiconductor & AI Hardware",
+      "fact": "Major US semiconductor equities sustained positive momentum following upgraded supply-chain production schedules for next-generation data center architectures.",
+      "inference": "Capital expenditure commitments from mega-cap hyperscalers remain robust, insulating hardware vendors from broader macroeconomic cooling.",
+      "keyUncertainty": "Elevated valuation multiples leave key AI chipmakers vulnerable to minor earnings or guidance misses."
+    },
+    {
+      "title": "HK Auto & EV Export Expansion",
+      "fact": "Chinese EV manufacturers listed in Hong Kong announced record monthly export volumes alongside new distribution partnerships in Southeast Asia and Latin America.",
+      "inference": "Rapid overseas expansion offers an effective margin buffer against intense domestic price competition in the mainland market.",
+      "keyUncertainty": "Evolving trade policies, including potential tariffs and anti-subsidy scrutiny in Western destinations."
+    }
+  ]
+}
