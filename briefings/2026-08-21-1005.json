@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech Giants & AI Infrastructure Capex",
+      "fact": "Major Hong Kong-listed tech leaders including Alibaba and Tencent expanded AI cloud infrastructure investments alongside active share buyback executions during the session.",
+      "inference": "Increased capex may temporarily pressure short-term margins, but robust buyback programs provide a valuation floor and enhance long-term earnings per share growth.",
+      "keyUncertainty": "Monetization speed of generative AI enterprise services and potential escalation in global semiconductor supply chain restrictions."
+    },
+    {
+      "title": "US Fed Rate Trajectory & Mega-Cap Tech Volatility",
+      "fact": "Resilient US macro economic indicators combined with moderating core inflation data led to recalibrated market expectations regarding the Federal Reserve's rate easing schedule.",
+      "inference": "A higher-for-longer rate environment favors cash-rich mega-cap balance sheets over high-leverage growth names, maintaining narrow market breadth in US equities.",
+      "keyUncertainty": "Upcoming Federal Reserve policy statements and sustainability of consumer spending strength in the second half."
+    },
+    {
+      "title": "HK Biotech Out-Licensing Momentum",
+      "fact": "Several HKEX-listed innovative pharmaceutical firms announced multi-million dollar global out-licensing deals for oncology and metabolic drug pipelines with multinational pharma.",
+      "inference": "Cross-border asset monetization validates domestic R&D capabilities and provides crucial non-dilutive capital reserves to sustain late-stage trial funding.",
+      "keyUncertainty": "Phase III clinical trial outcomes, international regulatory approval hurdles, and execution of commercialization partnerships."
+    }
+  ]
+}
