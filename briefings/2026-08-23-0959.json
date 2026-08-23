@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US AI Hardware & Cloud Infrastructure Capex",
+      "fact": "Leading US cloud service providers announced increased capital expenditure guidance for AI infrastructure, driving gains across semiconductor and server supply chains.",
+      "inference": "Sustained hyper-scaler spending extends strong revenue visibility for upstream chip designers and equipment suppliers into the second half of the year.",
+      "keyUncertainty": "Potential power grid capacity bottlenecks and evolving regulatory controls on advanced technology exports."
+    },
+    {
+      "title": "HK-Listed Chinese Internet & Platform Economy",
+      "fact": "Major Chinese e-commerce and platform operators listed in Hong Kong reported stable GMV growth alongside reduced cross-border fulfillment subsidies.",
+      "inference": "Platform companies are shifting focus from margin-dilutive user acquisition toward operating efficiency, profit recovery, and share buybacks.",
+      "keyUncertainty": "Trajectory of mainland retail sales recovery and broader domestic consumer spending confidence."
+    },
+    {
+      "title": "US Monetary Policy & Capital Flows",
+      "fact": "Latest US inflation metrics aligned with consensus, sustaining market expectations for an impending interest rate cut cycle by the Federal Reserve.",
+      "inference": "A easing yield environment supports valuation multiples for high-growth tech stocks and enhances international capital allocation into HK-listed Chinese assets.",
+      "keyUncertainty": "Unexpected labor market re-tightening or commodity price shocks reigniting inflation pressures."
+    },
+    {
+      "title": "HK Banking & Local Property Sector",
+      "fact": "Hong Kong interbank offered rates (HIBOR) softened across key tenors, while primary market residential mortgage inquiries recorded a steady uptick.",
+      "inference": "Gradual reduction in local borrowing costs provides marginal relief to real estate developers and supports credit quality for Hong Kong banking institutions.",
+      "keyUncertainty": "Refinancing exposure in commercial real estate portfolios and the pace of office rental recovery."
+    }
+  ]
+}
