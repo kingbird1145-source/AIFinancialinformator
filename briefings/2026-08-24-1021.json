@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech & Southbound Capital Inflows",
+      "fact": "The Hang Seng Tech Index showed resilience, bolstered by consistent net buying from Southbound Stock Connect capital focusing on major tech leaders like Tencent and Alibaba.",
+      "inference": "Sustained liquidity support from mainland funds is establishing a valuation floor for major HK internet majors despite cautious global market sentiment.",
+      "keyUncertainty": "Federal Reserve rate policy outlook and upcoming Q2 corporate earnings performance."
+    },
+    {
+      "title": "US Semiconductor & AI Supply Chain Demand",
+      "fact": "US semiconductor shares moved higher following reports that major enterprise hyperscalers are maintaining aggressive CapEx plans for next-generation AI hardware and server buildouts.",
+      "inference": "Strong demand for AI accelerators and high-bandwidth memory continues to benefit top-tier chip manufacturers and equipment suppliers.",
+      "keyUncertainty": "Regulatory adjustments regarding tech export controls and potential supply chain bottlenecks."
+    },
+    {
+      "title": "HK-Listed EV Manufacturers & Global Expansion",
+      "fact": "Hong Kong-listed Chinese EV brands published strong overseas shipment figures, helping offset ongoing domestic price discounting across consumer auto segments.",
+      "inference": "Market share gains in overseas markets will differentiate resilient EV players from domestic-only automakers operating under tight profit margins.",
+      "keyUncertainty": "Potential foreign tariff implementations and localized policy barriers in key export markets."
+    }
+  ]
+}
