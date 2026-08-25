@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech & Semiconductor Capex",
+      "fact": "Major US tech enterprise earnings reports confirm continued elevated capital expenditure targeting AI hardware infrastructure, driving strong forward revenue guidance for leading GPU and chip equipment vendors.",
+      "inference": "Sustained capex expansion provides valuation support for US semiconductor supply chain leaders, maintaining positive momentum across the broad US technology sector.",
+      "keyUncertainty": "Potential supply chain bottleneck constraints and high baseline valuations vulnerable to any sudden shifts in US Treasury yield trajectories."
+    },
+    {
+      "title": "Hong Kong Internet Sector & Southbound Capital",
+      "fact": "The Hang Seng Tech Index experienced sustained net inflows via the Southbound Stock Connect, led by increased positioning in major e-commerce and digital gaming platforms following solid preliminary Q2 operational metrics.",
+      "inference": "Continuous retail and institutional capital inflows from mainland investors are providing a liquidity buffer for high-weight HK tech constituents, capping downside price pressures.",
+      "keyUncertainty": "Pace of mainland Chinese retail consumption recovery and potential price-war competition among leading consumer platforms."
+    },
+    {
+      "title": "US Monetary Policy & Global Liquidity Dynamics",
+      "fact": "Cooling labor market indicators in the US have increased market probability pricing for Federal Reserve interest rate cuts later this year, causing a pullback in the US Dollar Index and 10-year Treasury yields.",
+      "inference": "Easing yield pressures improve global risk asset appetite, benefiting capital-intensive Hong Kong equities and high-dividend yield sectors via lower cost of capital expectations.",
+      "keyUncertainty": "Risk of sticky core service inflation readings delaying the actual execution or scale of upcoming monetary easing."
+    },
+    {
+      "title": "China New Energy Vehicles (NEVs) & HK-Listed Auto Stocks",
+      "fact": "Leading Chinese EV manufacturers published strong mid-month delivery volumes alongside announced expansion plans into European and Southeast Asian distribution channels.",
+      "inference": "Export channel growth helps offset domestic margin pressure caused by domestic price adjustments, sustaining long-term top-line revenue growth narrative for tier-one manufacturers.",
+      "keyUncertainty": "Increasing overseas trade barriers, tariff policy adjustments, and competitive pricing actions within domestic markets."
+    }
+  ]
+}
