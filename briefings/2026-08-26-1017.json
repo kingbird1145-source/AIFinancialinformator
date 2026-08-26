@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech Giants Capex & AI Commercialization",
+      "fact": "Major Hong Kong-listed tech leaders including Tencent and Alibaba reported sustained Q2 AI capex increases alongside resilient growth in cloud computing and targeted advertising revenues.",
+      "inference": "Near-term operating margins may face minor compression, but accelerated enterprise AI deployment will enhance long-term monetization efficiency and structural earnings growth.",
+      "keyUncertainty": "Domestic consumer spending recovery momentum and potential adjustments to cross-border tech export regulations."
+    },
+    {
+      "title": "US Monetary Policy & Equity Capital Flows",
+      "fact": "U.S. macroeconomic indicators showed cooling inflation metrics, maintaining market expectations for a 25 bps rate cut at the upcoming FOMC meeting while the 10-year Treasury yield stabilized.",
+      "inference": "Reduced yield volatility offers macro liquidity support to mega-cap US technology equities, encouraging risk-on capital rotation across growth sectors.",
+      "keyUncertainty": "Sticky non-housing service inflation and incoming non-farm payroll employment data releases."
+    },
+    {
+      "title": "China New Energy Vehicles Export Expansion",
+      "fact": "Leading Hong Kong-listed EV manufacturers recorded strong double-digit year-over-year overseas delivery growth, expanding operational presence across Southeast Asian and Latin American markets.",
+      "inference": "Superior supply chain cost structure and rapid iteration cycles continue to offset localized trade tariff headwinds, supporting overall segment gross margin resiliency.",
+      "keyUncertainty": "Domestic market price war escalation and regulatory policy shifts regarding regional market entry barriers."
+    },
+    {
+      "title": "Global Semiconductor & AI Infrastructure Demand",
+      "fact": "US semiconductor hardware providers and server OEMs reported sustained multi-quarter order backlogs driven by enterprise hyperscaler data center buildouts.",
+      "inference": "High capital expenditures across global cloud service providers maintain strong earnings visibility for upstream chip design and equipment suppliers.",
+      "keyUncertainty": "Advanced semiconductor packaging capacity bottlenecks and potential cyclical weakness in legacy consumer electronics."
+    }
+  ]
+}
