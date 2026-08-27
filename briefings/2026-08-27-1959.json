@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech AI Infrastructure Expenditure & Semiconductor Sector Momentum",
+      "fact": "Major US tech giants reported a 35% year-over-year increase in capital expenditure dedicated to AI data centers and high-performance computing hardware during recent quarterly disclosures.",
+      "inference": "Upstream semiconductor equipment vendors and cloud infrastructure hardware suppliers will likely sustain robust revenue growth through H2 2026.",
+      "keyUncertainty": "Monetization pace of enterprise AI software applications failing to justify ongoing infrastructure investment levels."
+    },
+    {
+      "title": "Hong Kong Internet Platform Sector & Mainland Retail Consumption",
+      "fact": "The Hang Seng Tech Index fluctuated near key technical support as major e-commerce platforms initiated aggressive promotional subsidies in tandem with expanded domestic trade-in stimulus policies.",
+      "inference": "Operating margins for top-tier e-commerce operators may experience short-term compression, though overall GMV volume growth could buffer gross profit impact.",
+      "keyUncertainty": "The duration of local fiscal subsidy programs and competitive intensity among domestic logistics operators."
+    },
+    {
+      "title": "Federal Reserve Rate Trajectory & Cross-Border Capital Allocation",
+      "fact": "US core inflation metrics aligned with market consensus at 2.6% year-over-year, reinforcing trader expectations for an impending interest rate cut by the Federal Reserve.",
+      "inference": "Narrowing interest rate differentials between US dollar yields and Hong Kong dollar assets are expected to support liquidity inflows into HK-listed equities and rate-sensitive dividend yield plays.",
+      "keyUncertainty": "Potential upside surprises in upcoming US non-farm payroll employment data or persistent service-sector inflation."
+    }
+  ]
+}
