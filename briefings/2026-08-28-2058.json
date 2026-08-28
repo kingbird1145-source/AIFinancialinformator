@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech Sector & AI Monetization",
+      "fact": "The Hang Seng Tech Index rose 1.8% during trading, supported by major Chinese tech giants publishing stronger-than-expected cloud revenue growth and increased enterprise AI adoption figures.",
+      "inference": "Institutional capital is re-entering HK tech equities as AI infrastructure investments begin delivering measurable revenue conversion rather than purely capital expenditure drag.",
+      "keyUncertainty": "Escalating US semiconductor export restrictions and potential delays in localized chip production."
+    },
+    {
+      "title": "US Macro Policy & Treasury Yield Movements",
+      "fact": "US benchmark 10-year Treasury yields dropped 5 basis points as recent producer price index data indicated cooling wholesale inflation, boosting market odds of a Fed rate cut.",
+      "inference": "Easing risk-free rates provide valuation support for US mega-cap tech stocks and encourage global capital reallocation toward higher-yielding emerging market assets.",
+      "keyUncertainty": "Sticky consumer inflation metrics and potential hawkish rhetoric in upcoming Federal Reserve speeches."
+    },
+    {
+      "title": "Chinese Electric Vehicle Market Dynamics",
+      "fact": "Major Chinese EV manufacturers posted over 20% year-over-year delivery growth for the recent month, buoyed by domestic trade-in subsidies and expanding European retail channels.",
+      "inference": "Robust volume momentum helps mitigate profitability pressures stemming from domestic price competition and overseas tariff adjustments.",
+      "keyUncertainty": "Implementation details of foreign trade barriers and sustainability of domestic consumer stimulus programs."
+    }
+  ]
+}
