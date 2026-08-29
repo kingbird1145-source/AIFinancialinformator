@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech & Internet Sector",
+      "fact": "Hang Seng Tech Index gained as major Chinese internet platforms expanded share buyback programs and reported accelerated enterprise adoption of AI cloud services.",
+      "inference": "Increased capital returns alongside emerging AI revenue monetization are improving market sentiment and driving a valuation recovery for large-cap tech.",
+      "keyUncertainty": "Uncertainty surrounding domestic consumer spending trajectory and global liquidity conditions."
+    },
+    {
+      "title": "US Semiconductor & AI Infrastructure",
+      "fact": "US semiconductor equities advanced following upward guidance revisions triggered by increased capex announcements from major cloud hyper-scalers.",
+      "inference": "The multi-year AI infrastructure buildout phase remains resilient, providing strong demand visibility for upstream hardware and memory suppliers.",
+      "keyUncertainty": "Potential export control tightening and advanced packaging supply constraints."
+    },
+    {
+      "title": "HK Electric Vehicle Sector",
+      "fact": "HK-listed Chinese EV manufacturers reported strong monthly delivery metrics, supported by national trade-in incentives and localized promotional campaigns.",
+      "inference": "Sales volume momentum is well-supported by policy tailwinds, though ongoing price cuts continue to weigh on gross margin expansion.",
+      "keyUncertainty": "Intensifying price war among domestic automakers and potential foreign trade barriers."
+    }
+  ]
+}
