@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech & AI Infrastructure",
+      "fact": "Major US tech hardware and cloud providers reported increased capital expenditure guidance for AI server build-outs, driving chipmaker shares up in pre-market trading.",
+      "inference": "High CapEx commitments suggest sustained near-term demand across the semiconductor supply chain, bolstering underlying earnings support for the Nasdaq.",
+      "keyUncertainty": "Monetization timelines for corporate end-users adopting enterprise AI tools remain extended."
+    },
+    {
+      "title": "HK Platform Economy & Internet Stocks",
+      "fact": "The Hang Seng Tech Index saw substantial Southbound capital net inflows as key internet giants announced expanded share repurchase programs following Q2 operational updates.",
+      "inference": "Accelerated share buybacks and steady user engagement figures are creating a firm valuation floor for major Chinese tech platforms.",
+      "keyUncertainty": "Domestic consumer spending momentum and potential post-summer price competition in e-commerce."
+    },
+    {
+      "title": "Global Macro & Interest Rate Dynamics",
+      "fact": "US wholesale inflation data came in softer than expected, leading swap markets to price in a higher probability of a Federal Reserve rate cut at the upcoming FOMC meeting.",
+      "inference": "A easing global rate cycle reduces capital outflow pressures on Hong Kong equities and supports interest-rate sensitive sectors like HK REITs and property developers.",
+      "keyUncertainty": "Potential volatility in global commodity prices impacting the trajectory of core inflation."
+    }
+  ]
+}
