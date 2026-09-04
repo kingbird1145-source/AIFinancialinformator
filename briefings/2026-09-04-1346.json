@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech & AI Infrastructure Investment",
+      "fact": "Leading US tech giants reported rising Q2 capital expenditure aimed at AI datacenter expansion and custom semiconductor development.",
+      "inference": "Sustained hardware spending continues to support semiconductor design and equipment manufacturers, though immediate software margins face pressure.",
+      "keyUncertainty": "Enterprise AI monetization pace and potential short-term hardware overcapacity."
+    },
+    {
+      "title": "Hong Kong High-Dividend Shares & Southbound Capital",
+      "fact": "Southbound Stock Connect recorded persistent net inflows targeting Chinese state-owned telecommunications and energy sector equities.",
+      "inference": "Mainland capital prefers high-yield, defensive assets in Hong Kong to mitigate broader market volatility and yield pressures.",
+      "keyUncertainty": "Pace of mainland consumer sentiment recovery and US dollar liquidity shifts."
+    },
+    {
+      "title": "US Inflation Trends & Federal Reserve Policy Trajectory",
+      "fact": "US core inflation and labor indicators showed mild cooling, reinforcing market expectations for monetary easing in upcoming FOMC meetings.",
+      "inference": "Easing Treasury yields are expected to support valuation multiples for high-growth sectors and lower global borrowing costs.",
+      "keyUncertainty": "Potential sticky services inflation and macroeconomic spillover from trade policy developments."
+    }
+  ]
+}
