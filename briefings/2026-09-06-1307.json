@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Tech & AI Infrastructure Capex",
+      "fact": "Major US tech megacaps highlighted sustained increase in AI infrastructure spending in recent quarterly updates, while cloud segment operating margins faced mild compression due to GPU server depreciation and power infrastructure investments.",
+      "inference": "Upstream semiconductor equipment makers and optical transceiver vendors retain solid multi-quarter order visibility, though downstream software monetization velocity remains the primary driver for broader tech equity re-rating.",
+      "keyUncertainty": "ROI timelines for enterprise AI adoption and potential supply chain bottlenecks in high-density power delivery."
+    },
+    {
+      "title": "Hong Kong Equities & Southbound Capital Flows",
+      "fact": "The Hang Seng Index consolidated near key technical resistance levels today, underpinned by steady Southbound net inflows into high-dividend state-owned telecom operators, state energy majors, and select mega-cap Chinese internet leaders.",
+      "inference": "High-yield defensive plays coupled with cash-flow-resilient tech titans continue to serve as institutional anchors, insulating the HK market against global macro fluctuations and rate volatility.",
+      "keyUncertainty": "RMB exchange rate movements and potential shift in broader onshore institutional risk appetite."
+    },
+    {
+      "title": "Chinese NEV Industry & Overseas Expansion",
+      "fact": "HK-listed Chinese new energy vehicle (NEV) makers announced new mid-year delivery milestones and accelerated launches of smart-driving-equipped models, while domestic retail discounting stabilized compared to the previous quarter.",
+      "inference": "Industry focus is shifting from aggressive price competition toward autonomous driving software capabilities and higher-margin export market penetration to bolster blended operating margins.",
+      "keyUncertainty": "Regulatory tariff adjustments and localized supply chain mandates in European and North American markets."
+    },
+    {
+      "title": "US Federal Reserve Rate Cut Expectations & Global Liquidity",
+      "fact": "Recent US labor market and inflation indicators aligned with a gradual disinflation trajectory, strengthening market consensus for monetary policy easing in upcoming FOMC meetings.",
+      "inference": "A lower interest rate environment reduces cost-of-capital pressures for high-valuation growth sectors and improves overall liquidity conditions for Asia-Pacific and emerging market equity inflows.",
+      "keyUncertainty": "Potential commodity price spikes or unexpected resilience in core service inflation prior to the next Fed decision."
+    }
+  ]
+}
