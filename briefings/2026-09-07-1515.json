@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech & AI Infrastructure CapEx",
+      "fact": "Major Hong Kong-listed tech giants significantly increased capital expenditure on AI infrastructure and proprietary cloud architectures, driven by surging enterprise demand for generative AI models.",
+      "inference": "Accelerated CapEx may compress near-term operating margins, but positions the platform companies for higher-margin SaaS monetization over a multi-year horizon.",
+      "keyUncertainty": "Supply chain bottlenecks for high-performance computing hardware and potential expansion of export control lists."
+    },
+    {
+      "title": "US Macro Liquidity & Fed Policy Expectations",
+      "fact": "Cooling US core PCE price index data and moderating wage growth led market futures to price in higher probability of Fed rate cuts in the second half of the year.",
+      "inference": "Dovish rate expectations provide valuation relief for rate-sensitive US mega-cap tech equities and improve liquidity flows into Hong Kong growth sectors.",
+      "keyUncertainty": "Sticky shelter inflation components and potential upside volatility in energy commodities disrupting the disinflationary path."
+    },
+    {
+      "title": "Chinese EV Exporters & Overseas Expansion",
+      "fact": "HK-listed electric vehicle manufacturers reported record export growth to Southeast Asian and Latin American markets, partially offsetting domestic price competition.",
+      "inference": "Global market diversification is becoming a critical driver for margin defense, favoring automakers with established overseas logistics and localized supply chains.",
+      "keyUncertainty": "Evolving regulatory hurdles, anti-subsidy tariff reviews, and foreign exchange risks in emerging markets."
+    }
+  ]
+}
