@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech & Semiconductor Capex Momentum",
+      "fact": "Leading US hyperscalers reaffirmed expanded capital expenditure commitments for AI server infrastructure during quarterly updates, lifting hardware supplier valuations.",
+      "inference": "High capital spending secures solid revenue visibility for upstream semiconductor and networking vendors, sustaining broad NASDAQ momentum in the near term.",
+      "keyUncertainty": "Monetization pace of downstream AI software applications and potential tightening of global hardware export rules."
+    },
+    {
+      "title": "HK Tech Platform Buybacks & Valuation Support",
+      "fact": "Major Hong Kong-listed internet firms accelerated daily equity repurchases following steady quarterly ad and cloud computing performance.",
+      "inference": "Sustained corporate buyback programs provide a strong floor for the Hang Seng Tech Index, helping offset domestic retail price competition.",
+      "keyUncertainty": "E-commerce margin compression resulting from aggressive promotional subsidies and market share defense strategies."
+    },
+    {
+      "title": "Federal Reserve Rate Trajectory & HKD Liquidity",
+      "fact": "US inflation indicators matched consensus expectations, reinforcing market pricing for potential Fed rate adjustments in the second half of the year.",
+      "inference": "A stabilizing interest rate path eases duration risk for high-growth tech stocks and helps maintain comfortable HKD interbank liquidity levels.",
+      "keyUncertainty": "Potential re-acceleration of service-sector inflation or geopolitical supply chain disruptions impacting energy prices."
+    },
+    {
+      "title": "China New Energy Vehicles & Overseas Expansion",
+      "fact": "Prominent Chinese EV manufacturers reported robust monthly export growth figures, outpacing domestic delivery gains.",
+      "inference": "Higher-margin overseas deliveries offer a strategic hedge against domestic price competition, favoring integrated industry leaders with mature export logistics.",
+      "keyUncertainty": "Evolving trade policies, tariff investigations in key foreign markets, and local regulatory hurdles."
+    }
+  ]
+}
