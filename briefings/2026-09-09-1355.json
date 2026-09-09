@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech & AI Infrastructure CapEx",
+      "fact": "Major US technology giants reported sustained year-over-year increases in capital expenditures dedicated to AI data centers and hardware, while short-term monetization metrics showed mixed growth across enterprise SaaS segments.",
+      "inference": "Sustained high CapEx provides ongoing revenue tailwinds for semiconductor and hardware supply chains, but valuations for software platforms may face pressure until generative AI returns accelerate.",
+      "keyUncertainty": "Potential delays in enterprise AI adoption schedules and capacity bottlenecks in power supply and high-bandwidth memory."
+    },
+    {
+      "title": "HK Tech & Chinese Internet Majors",
+      "fact": "Hang Seng Tech Index experienced range-bound volatility as Southbound capital recorded net buying in core internet leaders alongside announcements of renewed share buyback programs.",
+      "inference": "Corporate share repurchases and institutional inflows via Stock Connect offer a valuation floor for major HK-listed platforms, even as top-line revenue growth moderates.",
+      "keyUncertainty": "Shift in domestic consumer spending momentum and potential changes in regional platform competition dynamics."
+    },
+    {
+      "title": "New Energy Vehicles (EV) & Auto Supply Chain",
+      "fact": "Leading Chinese EV manufacturers reported accelerated overseas delivery figures for the current month while domestic price adjustments stabilized across mainstream passenger segments.",
+      "inference": "Export market expansion is increasingly serving as a primary driver for margin improvement, compensating for tight domestic margin competition in price-sensitive tiers.",
+      "keyUncertainty": "Evolving trade policy tariffs and localization mandates in European and North American import markets."
+    },
+    {
+      "title": "Macro Liquidity & Federal Reserve Rate Path",
+      "fact": "US Treasury yields flattened slightly following economic data indications of cooling labor market conditions and steady core inflation prints.",
+      "inference": "Expectations for upcoming rate cuts remain intact, easing discount-rate pressure on high-growth equities and stabilizing yield differentials for emerging market assets.",
+      "keyUncertainty": "Unexpected commodity price shocks or persistent services inflation that could defer anticipated monetary easing schedules."
+    }
+  ]
+}
