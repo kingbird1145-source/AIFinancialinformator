@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Mega-Cap Tech & AI Infrastructure",
+      "fact": "US major tech earnings showed robust growth in enterprise cloud revenue driven by generative AI hardware and data center deployments.",
+      "inference": "Continued high capital expenditure supports semiconductor vendors and global hardware suppliers listed in both US and HK markets.",
+      "keyUncertainty": "Pace of software monetization relative to heavy capital expenditure returns."
+    },
+    {
+      "title": "Hong Kong Tech Index & Southbound Capital",
+      "fact": "The Hang Seng Tech Index recorded strong net inflows via Southbound Stock Connect, particularly targeting major e-commerce and social platform equities.",
+      "inference": "Improved liquidity cushions valuation floors for HK-listed internet majors amid stabilization in domestic policy signals.",
+      "keyUncertainty": "Sustained momentum in Chinese domestic consumption metrics and retail sales recovery."
+    },
+    {
+      "title": "US Federal Reserve Rate Policy Dynamics",
+      "fact": "Recent US labor and inflation indicators signaled moderate economic cooling, reinforcing market expectations for upcoming interest rate reductions.",
+      "inference": "Easing rate expectations lower discount rates for high-duration growth stocks and alleviate capital outflow pressure on HK dollar assets.",
+      "keyUncertainty": "Potential commodity price spikes or sticky core service inflation altering the Fed path."
+    },
+    {
+      "title": "Global Electric Vehicle & Battery Sector",
+      "fact": "Leading Chinese and US EV manufacturers announced expanded promotional incentives alongside accelerated international market pushes.",
+      "inference": "Margin compression risks remain acute for downstream OEMs, favoring upstream suppliers with diversified global customer bases.",
+      "keyUncertainty": "Evolving trade policies, tariffs, and localized regulatory hurdles in key import regions."
+    }
+  ]
+}
