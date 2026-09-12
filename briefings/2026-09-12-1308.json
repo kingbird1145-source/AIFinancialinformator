@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Mega-Cap Tech & AI Infrastructure",
+      "fact": "Recent quarterly updates from major US tech firms indicate sustained double-digit increases in capital expenditure directed toward AI servers and data center expansion alongside steady enterprise cloud growth.",
+      "inference": "Upstream semiconductor suppliers and infrastructure enablers will maintain strong order visibility, though near-term margin compression may weigh on pure-play software providers.",
+      "keyUncertainty": "Monetization timeline of consumer-facing AI applications falling short of high market expectations."
+    },
+    {
+      "title": "Hong Kong Platform Internet & Consumer Equities",
+      "fact": "The Hang Seng Tech Index saw renewed capital inflows following targeted domestic policy announcements aimed at stimulating service consumption and supporting digital platform innovation.",
+      "inference": "Platform tech stocks are undergoing a valuation re-rating from depressed historical levels as earnings quality improves and capital return programs (buybacks/dividends) remain active.",
+      "keyUncertainty": "Durability of broader macroeconomic consumption recovery and geopolitical tailwinds affecting cross-border capital flows."
+    },
+    {
+      "title": "Global EV & Clean Energy Supply Chains",
+      "fact": "Leading electric vehicle manufacturers listed in HK and US markets reported rising overseas delivery figures, even as domestic price competition remains elevated.",
+      "inference": "Industry profitability will increasingly diverge toward vertically integrated producers capable of offsetting domestic price pressure through higher-margin export expansion.",
+      "keyUncertainty": "Potential tariff adjustments and trade policy barriers in key export markets including Europe and North America."
+    }
+  ]
+}
