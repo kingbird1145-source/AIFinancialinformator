@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech & Macro Liquidity",
+      "fact": "U.S. megacap tech equities edged higher ahead of key inflation data and quarterly earnings, with major AI infrastructure leaders raising capex guidance while U.S. Treasury yields stabilized.",
+      "inference": "Resilient enterprise technology spending continues to absorb macroeconomic tightness, supporting valuation multiples for mega-cap software and hardware firms.",
+      "keyUncertainty": "Federal Reserve monetary policy trajectory and potential margin compression if AI monetisation timelines lag aggressive infrastructure spending."
+    },
+    {
+      "title": "Hong Kong Internet & AI Monetization",
+      "fact": "Hang Seng Tech Index gained traction led by platform giants expanding share buyback programs and detailing growth in enterprise cloud and generative AI revenues.",
+      "inference": "Aggressive capital return initiatives paired with corporate cost discipline are enhancing free cash flow yield metrics across major HK-listed technology operators.",
+      "keyUncertainty": "Sustained momentum in Mainland domestic consumption and potential regulatory updates regarding cross-border data transfer rules."
+    },
+    {
+      "title": "Global Semiconductor Supply Chain",
+      "fact": "Leading semiconductor packaging and foundry operators reported near-full capacity utilization driven by sustained high-performance computing (HPC) demand.",
+      "inference": "Upstream hardware suppliers retain strong pricing power, indicating robust near-term capital expenditure commitment from tier-1 cloud service providers.",
+      "keyUncertainty": "Geopolitical trade restrictions and potential bottleneck risk in advanced packaging supply chains."
+    },
+    {
+      "title": "HK High-Dividend & State-Owned Enterprises",
+      "fact": "Mainland telecom operators and state-owned financial institutions listed in Hong Kong saw persistent net buying from Mainland funds via Southbound Stock Connect.",
+      "inference": "Onshore institutional capital continues to prioritize high-dividend defensive equities to secure cash yield amidst low domestic interest rates.",
+      "keyUncertainty": "Variations in HIBOR dynamics and prospective margin compression for regional state-backed financial assets."
+    }
+  ]
+}
