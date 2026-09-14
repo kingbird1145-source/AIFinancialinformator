@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech AI Capital Expenditure & Semiconductors",
+      "fact": "Major US cloud hyperscalers reported sustained double-digit growth in quarterly capital expenditure targeting high-performance AI chips and data center infrastructure.",
+      "inference": "Upstream semiconductor design, advanced packaging, and optical communication hardware suppliers are likely to maintain high revenue visibility into upcoming quarters.",
+      "keyUncertainty": "Commercial monetization pace of enterprise AI applications and potential hardware supply bottlenecks."
+    },
+    {
+      "title": "Hong Kong Internet & Tech Sector Rebound",
+      "fact": "The Hang Seng Tech Index gained momentum as leading platform enterprises announced expanded share buyback initiatives alongside new cloud AI partnerships.",
+      "inference": "Enhanced capital return programs provide valuation support for major HK-listed internet equities, improving risk reward profiles for long-term institutional investors.",
+      "keyUncertainty": "Pace of domestic consumer spending recovery and evolving regulatory frameworks around cross-border data flows."
+    },
+    {
+      "title": "US Monetary Policy Expectations & Global Liquidity",
+      "fact": "Softening labor market indicators and inline US core inflation figures reinforced market consensus for an upcoming Federal Reserve interest rate cut.",
+      "inference": "Lower Treasury yields ease cost-of-capital pressures on growth equities and may trigger capital reallocations into undervalued emerging market assets, benefiting HK market liquidity.",
+      "keyUncertainty": "Sticky services inflation or geopolitical commodity price spikes that could disrupt the anticipated easing trajectory."
+    }
+  ]
+}
