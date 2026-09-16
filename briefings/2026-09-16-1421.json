@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "Hong Kong Tech & Internet Giants",
+      "fact": "The Hang Seng Tech Index fluctuated around key technical levels as Southbound Stock Connect recorded net inflows exceeding HKD 4.8 billion, driven by institutional buying in Meituan and Tencent following solid Q2 delivery metrics.",
+      "inference": "Sustained Southbound liquidity provides short-term downside protection for major HK tech platforms, though broader sentiment remains sensitive to domestic consumption growth velocity.",
+      "keyUncertainty": "Quarterly monetization rates for AI integrations and persistent macroeconomic consumption soft patches."
+    },
+    {
+      "title": "US Semiconductor & AI Infrastructure",
+      "fact": "US chipmaker stocks experienced heightened volatility overnight following mixed signals regarding cloud providers' multi-quarter AI capital expenditure guidance ahead of upcoming US macro inflation data.",
+      "inference": "Investors are demanding clear revenue conversion metrics from enterprise AI spend, shifting focus from raw supply capacity to margin expansion and customer adoption rates.",
+      "keyUncertainty": "Trajectory of Federal Reserve rate policy decisions and potential export restriction updates."
+    },
+    {
+      "title": "HK High-Yield & State-Owned Enterprise (SOE) Dividends",
+      "fact": "State-owned telecommunications and energy majors listed in Hong Kong outperformed the broader market as investors actively positioned into high-dividend, defensively oriented cash-flow generators.",
+      "inference": "Rotation into defensive SOEs underlines ongoing caution regarding global rate paths and domestic growth momentum, reinforcing a bifurcated market structure.",
+      "keyUncertainty": "Fluctuations in global benchmark bond yields impacting relative yield attractiveness."
+    }
+  ]
+}
