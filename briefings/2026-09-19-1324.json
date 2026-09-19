@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "Hong Kong Tech & AI Integration",
+      "fact": "Major Hong Kong-listed tech giants reported a 25% year-over-year increase in enterprise cloud and AI service revenues during recent earnings disclosures.",
+      "inference": "Monetization of commercial generative AI tools is accelerating, providing a structural re-rating catalyst for Hang Seng Tech Index constituents.",
+      "keyUncertainty": "Cross-border data compliance rules and the sustainability of foreign capital inflows into HK equities."
+    },
+    {
+      "title": "US Semiconductor & AI Infrastructure",
+      "fact": "Leading US mega-cap semiconductor producers elevated full-year CapEx guidance following sustained demand signals from global hyperscalers.",
+      "inference": "High capital spending in AI hardware continues to provide robust revenue visibility for upstream chip designers and equipment manufacturers.",
+      "keyUncertainty": "Advanced packaging supply chain bottlenecks and potential shifts in international tech export policies."
+    },
+    {
+      "title": "Hong Kong Monetary Conditions & High-Yield Assets",
+      "fact": "The HKMA kept the Base Rate steady in lockstep with the US Fed, while short-term HIBOR rates showed marginal easing across 1-month and 3-month tenors.",
+      "inference": "Easing liquidity pressures reduce debt servicing burdens for local enterprises and enhance the relative attractiveness of high-dividend yield HK equities.",
+      "keyUncertainty": "Timing and magnitude of future US Fed interest rate adjustments affecting the USD/HKD peg dynamics."
+    }
+  ]
+}
