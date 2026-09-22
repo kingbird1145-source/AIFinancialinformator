@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech & Internet Platforms",
+      "fact": "Hong Kong tech heavyweights traded with mixed performance following strong Q2 cloud infrastructure revenues alongside cautious management guidance on domestic consumer spending.",
+      "inference": "Accelerated commercialization of generative AI applications and cost-optimization measures will likely support medium-term profit margins despite topline consumption headwinds.",
+      "keyUncertainty": "Sustainability of domestic retail recovery and potential shift in institutional capital flows toward defensive dividend yield stocks."
+    },
+    {
+      "title": "US Semiconductor & AI Infrastructure",
+      "fact": "Leading US chipmakers and cloud hyper-scalers reported continued multi-billion dollar capital expenditure increases dedicated to AI server buildouts.",
+      "inference": "Upstream equipment providers and high-bandwidth memory suppliers retain strong pricing power and order visibility extending through the next fiscal year.",
+      "keyUncertainty": "Monetary policy trajectory of the Federal Reserve and potential macro-driven cutbacks in enterprise IT budget allocations."
+    },
+    {
+      "title": "HK/China New Energy Vehicle (NEV) Sector",
+      "fact": "Major Chinese EV manufacturers saw record export volume growth during the current quarter while domestic promotional price adjustments remain aggressive.",
+      "inference": "Automakers with established international sales networks and integrated supply chains are better positioned to offset domestic margin erosion.",
+      "keyUncertainty": "Trade policy shifts and evolving countervailing duties in key overseas markets such as the EU and Southeast Asia."
+    },
+    {
+      "title": "US Financials & High-Yield Debt Markets",
+      "fact": "US money market funds recorded persistent inflows while major financial institutions reported steady net interest margins amid lingering rate cuts speculation.",
+      "inference": "Abundant liquidity in short-term yield products is limiting equity valuation expansion across high-beta growth sectors until clearer rate cut signals emerge.",
+      "keyUncertainty": "Unexpected inflation spikes impacting commercial bank credit quality and loan growth expectations."
+    }
+  ]
+}
