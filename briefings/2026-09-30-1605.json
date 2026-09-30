@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Tech & AI Hardware Expansion",
+      "fact": "Leading US cloud hyper-scalers reported upgraded capital expenditure projections for AI data center infrastructure through H2 2026, driving pre-market gains in semiconductor equipment manufacturers.",
+      "inference": "Sustained CapEx commitments reinforce earnings visibility for high-bandwidth memory and custom ASIC suppliers across US and connected global tech ecosystems.",
+      "keyUncertainty": "Monetization pace of end-user AI enterprise software and potential tightening of cross-border technology trade restrictions."
+    },
+    {
+      "title": "Hong Kong Internet & E-Commerce Sector Momentum",
+      "fact": "The Hang Seng Tech Index closed up 1.8% today, led by major Chinese e-commerce and cloud gaming giants following heavy share buyback executions and Southbound Stock Connect capital inflows.",
+      "inference": "Aggressive share repurchase programs combined with cost-efficiency discipline are enhancing per-share earnings quality, attracting institutional value investors.",
+      "keyUncertainty": "Quarterly revenue growth dependence on mainland consumer spending recovery and competitive price discounting pressures."
+    },
+    {
+      "title": "US Macro Policy & Yield Environment",
+      "fact": "Latest US inflation indicators aligned with market consensus, maintaining 10-year Treasury yields near 4.10% while fed funds futures continue to price in an easing cycle before year-end.",
+      "inference": "A stable interest rate outlook mitigates valuation compression risk for growth equities and improves secondary market liquidity in Hong Kong capital markets.",
+      "keyUncertainty": "Potential commodity price volatility and macroeconomic shifts influencing central bank monetary policy timelines."
+    },
+    {
+      "title": "HK-Listed New Energy Vehicle Sector",
+      "fact": "Top-tier Chinese EV makers listed in Hong Kong reported strong mid-summer delivery estimates alongside accelerated export channel expansion into European and Middle Eastern markets.",
+      "inference": "Overseas market penetration helps offset domestic price competition and stabilizes gross margin profiles for market-share leaders.",
+      "keyUncertainty": "Implementation details of foreign trade tariffs and local compliance/certification timelines in overseas jurisdictions."
+    }
+  ]
+}
