@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Mega-Cap Tech & AI Infrastructure",
+      "fact": "Major US technology leaders reported increased capital expenditure targets for AI hardware and cloud data centers, driving gains across semiconductor suppliers while exerting near-term pressure on software margins.",
+      "inference": "Sustained capex spend reinforces strong revenue visibility for upstream hardware vendors, though market focus is rapidly shifting toward tangible ROI on AI enterprise integration.",
+      "keyUncertainty": "Risk of margin compression if software monetization fails to scale rapidly enough to match capex expansion."
+    },
+    {
+      "title": "HK Tech & China Internet Giants",
+      "fact": "The Hang Seng Tech Index saw increased volume as top-tier internet firms accelerated share repurchases and reported steady growth in e-commerce and local services revenue.",
+      "inference": "Aggressive buyback programs combined with stabilizing operating cash flows are helping set a structural valuation floor for major HK-listed Chinese tech stocks.",
+      "keyUncertainty": "Macroeconomic consumption trends in mainland China and potential new export restrictions on advanced tech hardware."
+    },
+    {
+      "title": "HK High-Dividend & Southbound Inflows",
+      "fact": "Southbound capital via Stock Connect recorded significant net inflows today, heavily favoring high-yield HK-listed state-owned enterprises (SOEs) in the energy, telecom, and banking sectors.",
+      "inference": "Institutional capital continues to favor defensive yield-generating assets amid global interest rate uncertainty and currency fluctuation concerns.",
+      "keyUncertainty": "Macro interest rate policy trajectories from global central banks affecting the relative attractiveness of dividend yields."
+    }
+  ]
+}
