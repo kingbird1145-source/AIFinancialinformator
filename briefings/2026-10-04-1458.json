@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "Hong Kong Tech Stocks & AI Infrastructure Capex",
+      "fact": "Major Hong Kong-listed tech leaders including Alibaba and Tencent expanded cloud infrastructure capex and rolled out new enterprise AI agent solutions during the trading session.",
+      "inference": "Accelerating enterprise AI adoption in China is expected to drive higher cloud revenue growth and re-rate software valuation multiples over medium-term horizons.",
+      "keyUncertainty": "Monetization pace across non-tech enterprise clients and potential hardware supply constraint dynamics."
+    },
+    {
+      "title": "US Federal Reserve Rate Path & Tech Valuations",
+      "fact": "Recent US inflation data indicated steady moderation towards target levels, causing overnight swap markets to fully price in a 25 bps rate cut at the next FOMC meeting.",
+      "inference": "A lower risk-free yield environment lowers discount rates for long-duration growth assets, providing structural tailwinds for US megacap tech valuations.",
+      "keyUncertainty": "Persistently high corporate earnings growth expectations setting an elevated bar for upcoming Q2/Q3 earnings reports."
+    },
+    {
+      "title": "China Macro Liquidity & HK Financial Sector",
+      "fact": "The PBOC implemented targeted reverse repo operations and signaled continued flexible monetary support to stabilize mainland economic recovery and liquidity conditions.",
+      "inference": "Improved credit access and liquidity support provide a floor for valuation metrics of HK-listed mainland banks and insurance institutions.",
+      "keyUncertainty": "Credit transmission efficiency to private corporate capex and persistent retail consumer caution."
+    }
+  ]
+}
