@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech & AI Infrastructure Momentum",
+      "fact": "Major US tech software and hardware producers reported sustained high capital expenditure on AI data centers, maintaining strong order backlogs for leading chip suppliers.",
+      "inference": "Continued capex commitment provides solid earnings visibility for semiconductor and supply-chain equities, keeping institutional interest elevated in US growth stocks.",
+      "keyUncertainty": "Monetization speed of consumer-facing AI products and potential supply chain bottlenecks in advanced packaging."
+    },
+    {
+      "title": "HK Market Dynamics & Southbound Capital Flows",
+      "fact": "The Hang Seng Index traded in a tight consolidation range as Southbound Stock Connect recorded continuous net inflows into major Chinese platform and dividend-paying state-owned enterprise stocks.",
+      "inference": "Steady mainland capital inflow acts as a crucial valuation floor for Hong Kong equities, mitigating external macro volatility and high US dollar yields.",
+      "keyUncertainty": "Pace of domestic consumption recovery in China and upcoming corporate earnings guidance for the second half."
+    },
+    {
+      "title": "Federal Reserve Rate Expectations & Dollar Strength",
+      "fact": "Recent US inflation and labor market indicators suggested moderating economic momentum, leading traders to increase bets on upcoming interest rate cuts by the Federal Reserve.",
+      "inference": "Softening Treasury yields reduce discount rates for equities, providing liquidity relief for risk assets globally, including emerging market and HK-listed equities.",
+      "keyUncertainty": "Potential commodity price rebounds that could re-ignite inflation and delay monetary easing."
+    },
+    {
+      "title": "Chinese NEV Industry & Global Export Expansion",
+      "fact": "Leading Chinese New Energy Vehicle (NEV) manufacturers posted strong July export figures alongside aggressive price-adjustments in domestic retail channels.",
+      "inference": "Overseas volume growth serves as a buffer against domestic price competition, driving top-line expansion while pressuring short-term industry gross margins.",
+      "keyUncertainty": "Increasing tariff burdens and regulatory scrutiny on imported EVs in key overseas markets."
+    }
+  ]
+}
