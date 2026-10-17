@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Big Tech & Enterprise Cloud",
+      "fact": "The Hang Seng Tech Index rose 1.8% driven by positive enterprise cloud revenue growth and expanded AI integration announcements from major Chinese internet firms.",
+      "inference": "Monetization of enterprise AI software is beginning to translate into tangible revenue, boosting valuation multiples across Chinese technology blue chips.",
+      "keyUncertainty": "Potential tightening of US export controls on advanced computing hardware and cross-border data transfer regulations."
+    },
+    {
+      "title": "US Semiconductor & AI Hardware",
+      "fact": "US chipmaker futures gained momentum as supply chain reports confirmed strong demand visibility for high-bandwidth memory and advanced AI packaging through late 2026.",
+      "inference": "Capital expenditure commitments from major US hyperscalers remain resilient, reinforcing fundamental support for the broader hardware ecosystem.",
+      "keyUncertainty": "High valuation multiples leave leading semiconductor stocks vulnerable to short-term pullbacks if supply chain bottlenecks delay delivery timelines."
+    },
+    {
+      "title": "HK Southbound Capital & High-Dividend Stocks",
+      "fact": "Southbound Stock Connect recorded a multi-month high in net daily inflows, heavily targeting high-yield state-owned telecom and energy stocks alongside select consumer platforms.",
+      "inference": "Mainland institutional capital continues to seek defensive yield strategies to offset low onshore interest rates, establishing a floor for the Hang Seng Index.",
+      "keyUncertainty": "Pace of domestic consumer sentiment recovery and continuous restructuring challenges in the real estate market."
+    }
+  ]
+}
