@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Tech & AI Infrastructure Capex",
+      "fact": "Major US technology conglomerates reported sustained high artificial intelligence capital expenditure alongside resilient cloud infrastructure revenue growth.",
+      "inference": "Persistent enterprise AI demand provides a strong foundation for broad tech sector valuations, sustaining bullish momentum across the Nasdaq and S&P 500.",
+      "keyUncertainty": "Risk of margin compression if monetization of AI services lags behind aggressive infrastructure expenditure."
+    },
+    {
+      "title": "HK Internet & Consumer Tech Inflows",
+      "fact": "The Hang Seng Tech Index experienced positive momentum driven by strong Southbound capital inflows and resilient Q2 performance metrics from major platform enterprise giants.",
+      "inference": "Historically low valuation multiples combined with improving earnings fundamentals are incentivizing institutional long-term allocation into HK-listed tech heavyweights.",
+      "keyUncertainty": "Domestic consumer spending recovery trajectory in mainland China and potential macro policy execution delays."
+    },
+    {
+      "title": "US Federal Reserve Monetary Policy & Treasury Yields",
+      "fact": "US 10-year Treasury yields shifted lower following macro economic indicators pointing to a gradual labor market cooling and moderate inflation metrics.",
+      "inference": "An anticipated monetary easing cycle enhances global liquidity conditions, lowering cost of capital and offering macro tailwinds for both US growth stocks and Hong Kong equity valuations.",
+      "keyUncertainty": "Unexpected inflation sticky points driven by geopolitical trade friction or supply chain disruptions."
+    }
+  ]
+}
