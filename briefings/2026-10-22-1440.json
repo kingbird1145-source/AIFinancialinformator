@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech Giants & AI Commercialization",
+      "fact": "Hang Seng Tech Index heavyweights saw heightened institutional inflows following updates on enterprise AI integrations and accelerating cloud sector revenues.",
+      "inference": "Market focus in the Chinese tech space is transitioning from initial capital expenditure capacity building to demonstrable revenue contribution from AI products.",
+      "keyUncertainty": "Macroeconomic consumption recovery pace in mainland China and ongoing international tech supply chain constraints."
+    },
+    {
+      "title": "US Fed Rate Outlook & Global Capital Flows",
+      "fact": "US stock futures and Treasury yields remained bound within a narrow range during Asian trading hours as investors analyzed recent macroeconomic inflation data.",
+      "inference": "A prolonged higher-for-longer interest rate regime continues to favor cash-rich mega-cap technology firms while pressuring small-cap equity valuations.",
+      "keyUncertainty": "Stickiness of core services inflation and potential shifts in FOMC monetary easing timing."
+    },
+    {
+      "title": "HK/US Dual-Listed EV Sector Dynamics",
+      "fact": "Major electric vehicle manufacturers posted mixed share performance following the release of monthly delivery guidance and expanded overseas market penetration strategy updates.",
+      "inference": "While overseas expansion offers new volume drivers, persistent domestic price wars continue to weigh on short-term corporate gross profit margins.",
+      "keyUncertainty": "Final decisions on foreign anti-subsidy tariffs and geopolitical trade policy shifts."
+    }
+  ]
+}
