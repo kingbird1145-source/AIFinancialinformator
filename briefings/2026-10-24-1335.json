@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Semiconductor & AI Infrastructure",
+      "fact": "Major US semiconductor equipment manufacturers reported strong order backlogs driven by hyperscaler AI capex, while leading cloud providers reaffirmed elevated data center spending for H2.",
+      "inference": "Sustained capital expenditure from big tech continues to anchor earnings support for the broader US hardware and chip supply chain, upholding tech index momentum.",
+      "keyUncertainty": "Potential tightening of cross-border technology export controls and supply bottlenecks in advanced packaging capacity."
+    },
+    {
+      "title": "HK Tech & Chinese Internet Platforms",
+      "fact": "The Hang Seng Tech Index saw strong inflows after major e-commerce and cloud operators reported higher-than-expected operating margins due to AI-driven ad efficiency and disciplined cost control.",
+      "inference": "Margin expansion and monetization of enterprise AI tools are beginning to offset cautious consumer sentiment, aiding valuation recovery for HK-listed Chinese internet majors.",
+      "keyUncertainty": "Pace of domestic macro consumption recovery and competitive price wars in retail and local services segments."
+    },
+    {
+      "title": "US Macro Policy & Interest Rate Expectations",
+      "fact": "US inflation indicators showed steady deceleration alongside moderate wage growth, keeping market consensus aligned toward upcoming Federal Reserve rate cuts.",
+      "inference": "A easing yield environment reduces global discount rates, providing equity valuation tailwinds for high-growth sectors across both US and HK equities.",
+      "keyUncertainty": "Potential stickiness in services inflation or hawkish messaging from upcoming FOMC policy statements."
+    },
+    {
+      "title": "HK & China Electric Vehicles (EV)",
+      "fact": "Leading Chinese EV makers listed in Hong Kong reported record monthly export volumes alongside expanded distribution deals across European and Middle Eastern markets.",
+      "inference": "Overseas market expansion is becoming a critical revenue engine to hedge against intense domestic price competition in mainland China.",
+      "keyUncertainty": "Evolving foreign trade policies, anti-subsidy duties, and localized regulatory hurdles in key export destinations."
+    }
+  ]
+}
