@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech Earnings & AI Infrastructure Capex",
+      "fact": "Major US technology companies reported strong quarterly cloud revenue growth while reaffirming elevated capital expenditures for AI data center expansion through the rest of the year.",
+      "inference": "Sustained high capex commitments support valuations across upstream semiconductor manufacturers and server component providers, though software margin compression may trigger near-term volatility.",
+      "keyUncertainty": "Pace of enterprise AI monetization and potential delays in next-generation GPU chip deliveries."
+    },
+    {
+      "title": "Hong Kong Tech Index Rebound & Southbound Inflows",
+      "fact": "The Hang Seng Tech Index closed higher following significant net Southbound capital inflows via Stock Connect, primarily targeting large-cap internet and e-commerce platforms.",
+      "inference": "Mainland institutional capital continues to build defensive positions in discounted Chinese tech equities, providing strong baseline price support despite macroeconomic headwinds.",
+      "keyUncertainty": "Consumer spending momentum during Q3 and upcoming quarterly earnings guidance from platform majors."
+    },
+    {
+      "title": "Federal Reserve Monetary Policy & Liquidity Outlook",
+      "fact": "U.S. macroeconomic indicators showed cooling labor metrics and moderate inflation, driving market expectations for a rate cut at the upcoming FOMC meeting and pulling down 10-year Treasury yields.",
+      "inference": "Declining risk-free yields ease valuation pressure on long-duration assets, creating a favorable liquidity backstop for emerging market tech equities and US growth sectors.",
+      "keyUncertainty": "Potential hawkish pushback from Fed officials at upcoming central bank symposiums."
+    },
+    {
+      "title": "Electric Vehicle Sector Price Dynamics & Export Expansion",
+      "fact": "Leading Chinese EV automakers reported accelerated monthly export volumes into Southeast Asia and Europe, offsetting domestic price competition.",
+      "inference": "Overseas market expansion offers critical margin relief for vertically integrated auto manufacturers, driving differentiation between tier-1 producers and smaller domestic players.",
+      "keyUncertainty": "Finalization of international trade tariffs and local regulatory compliance costs in target export destinations."
+    }
+  ]
+}
