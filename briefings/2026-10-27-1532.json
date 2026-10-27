@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech Giants & Southbound Capital Flows",
+      "fact": "Hang Seng Tech Index closed higher led by Alibaba and Tencent following expanded share buyback execution and Southbound capital net inflows exceeding HKD 4.2 billion during the session.",
+      "inference": "Continuous Southbound inflows combined with elevated corporate buybacks provide strong valuation support for major Chinese internet equities, helping offset broader domestic macro drag.",
+      "keyUncertainty": "Sustainment of capital inflow momentum post-earnings and potential renewal of regulatory or geopolitical noise."
+    },
+    {
+      "title": "US Megacap Tech & Semiconductor Hardware Momentum",
+      "fact": "US tech hardware and semiconductor equipment stocks saw increased trading volume ahead of key earnings, driven by reports of persistent high-bandwidth memory (HBM) packaging tool demand.",
+      "inference": "Hyperscaler capital expenditure on AI infrastructure remains firmly intact, maintaining a strong fundamental tailwind for upstream supply chain leaders despite broader consumer tech softening.",
+      "keyUncertainty": "Monetization pace of software-layer AI applications and potential margin compression reported in upcoming quarterly earnings."
+    },
+    {
+      "title": "Chinese New Energy Vehicles (NEVs) & Export Expansion",
+      "fact": "Hong Kong-listed EV leaders including BYD and Li Auto outperformed the broader market following strong preliminary July delivery projections and expanding overseas shipment data.",
+      "inference": "Accelerating international sales are becoming a vital gross-margin driver, enabling market leaders to absorb intense domestic price competition better than tier-two peers.",
+      "keyUncertainty": "Evolving trade policy adjustments, European import tariff developments, and regional supply chain localization costs."
+    },
+    {
+      "title": "US Federal Reserve Rate Expectations & Global Liquidity",
+      "fact": "US 10-year Treasury yields stabilized near 4.18% as interest rate futures priced in a higher probability of a Fed interest rate cut at upcoming policy meetings.",
+      "inference": "Easing long-term risk-free rates improves broader equity valuation multiples and helps ease Hong Kong dollar liquidity conditions, providing a boost to high-dividend Hong Kong shares.",
+      "keyUncertainty": "Unexpected upside surprises in upcoming US inflation data (PCE/CPI) or sudden labor market weakness."
+    }
+  ]
+}
