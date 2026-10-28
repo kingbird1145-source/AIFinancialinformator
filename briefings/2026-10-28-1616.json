@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "HK Tech & Internet Sector",
+      "fact": "Major Hong Kong-listed internet leaders rallied following earnings beats and policy announcements reinforcing support for digital platform growth and cloud infrastructure investment.",
+      "inference": "Valuation multiples for major platform equities are positioned for baseline re-rating driven by disciplined cost structures and improving monetization in core business units.",
+      "keyUncertainty": "Sustainability of domestic consumer demand recovery and potential geopolitical headwind exposures."
+    },
+    {
+      "title": "US AI & Semiconductor Infrastructure",
+      "fact": "US semiconductor heavyweights posted strong quarterly guidance citing unrelenting datacenter demand from cloud hyperscalers expanding AI capacity.",
+      "inference": "Capital expenditure cycles across Big Tech remain firmly supportive of the hardware supply chain, cushioning broader market valuation levels.",
+      "keyUncertainty": "Tight advanced packaging capacity constraints and upcoming macro data influencing Federal Reserve interest rate trajectory."
+    },
+    {
+      "title": "HK Biotech & Healthcare",
+      "fact": "Several Hong Kong-listed innovative drug developers reported high-value out-licensing deals with global pharmaceutical majors.",
+      "inference": "Cross-border commercialization capability is emerging as a critical catalyst for liquidity inflows into high-quality HK healthcare stocks.",
+      "keyUncertainty": "Regulatory price negotiation pressures in domestic markets and execution timing for late-stage clinical trials."
+    }
+  ]
+}
