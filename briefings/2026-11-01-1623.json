@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Semiconductor & AI Infrastructure",
+      "fact": "Major semiconductor vendors reported resilient enterprise server hardware demand driven by hyperscaler AI cluster expansion, alongside upward revisions to annual CapEx guidance.",
+      "inference": "Sustained cloud infrastructure spending provides mid-term revenue visibility across the hardware supply chain, offsetting weakness in legacy PC and consumer electronics segments.",
+      "keyUncertainty": "Geopolitical trade policy shifts and potential tightening of export control parameters on advanced computing hardware."
+    },
+    {
+      "title": "HK Tech & Digital Economy",
+      "fact": "The Hang Seng Tech Index stabilized as leading internet conglomerates announced expanded share buyback programs alongside regulatory clarity on cross-border data compliance.",
+      "inference": "Aggressive capital return measures (buybacks and dividends) are providing a valuation floor for HK big tech, mitigating broader macroeconomic headwinds.",
+      "keyUncertainty": "Intensifying price competition in cloud services and domestic e-commerce live-streaming segments."
+    },
+    {
+      "title": "US Macro & Monetary Policy Outlook",
+      "fact": "Latest labor market and inflation indicators aligned with consensus forecasts, solidifying market expectations for a rate easing cycle later in the year.",
+      "inference": "A controlled disinflation trajectory maintains liquidity support for growth equities and limits upside pressure on long-duration Treasury yields.",
+      "keyUncertainty": "Potential re-acceleration of service sector inflation or unexpected labor market tightness."
+    },
+    {
+      "title": "HK & Mainland Electric Vehicles",
+      "fact": "Leading Chinese EV makers posted strong delivery numbers for the current month while accelerating export expansion into Southeast Asia and Latin America.",
+      "inference": "Overseas sales expansion serves as a critical growth driver to absorb domestic capacity and support blended gross margins.",
+      "keyUncertainty": "Evolving foreign trade barriers, import tariffs, and local subsidy policy changes in target export destinations."
+    }
+  ]
+}
