@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Tech & AI Infrastructure CapEx",
+      "fact": "Major US cloud hyperscalers reported quarterly earnings highlighting resilient cloud service revenue and sustained increases in capital expenditure directed at AI hardware and data center expansion.",
+      "inference": "Short-term margin compression risks are countered by strong structural order visibility for global semiconductor foundries and AI server supply chains.",
+      "keyUncertainty": "Enterprise AI monetization velocity and potential power grid constraints delaying data center deployments."
+    },
+    {
+      "title": "HK Internet Platform & Digital Economy Rally",
+      "fact": "The Hang Seng Tech Index gained momentum during the HK session following regulatory signals reinforcing support for digital platform growth and consumer trade-in policies.",
+      "inference": "Valuation multiples for major HK-listed e-commerce and consumer tech giants are seeing tactical re-ratings as domestic policy support stabilizes near-term revenue expectations.",
+      "keyUncertainty": "Sustainability of domestic retail consumption recovery and ongoing macro spending caution."
+    },
+    {
+      "title": "US Federal Reserve Rate Cut Path & Macro Liquidity",
+      "fact": "US Treasury yields experienced two-way volatility as mixed economic data shifted market probability pricing for upcoming Fed rate decisions.",
+      "inference": "Capital flows are balancing between large-cap growth technology and rate-sensitive defensive equities, maintaining broad market dispersion.",
+      "keyUncertainty": "Sticky core inflation metrics restricting the Fed's room for aggressive monetary easing."
+    }
+  ]
+}
