@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech AI Infrastructure Expenditure",
+      "fact": "Major US technology conglomerates reported a 35% year-over-year increase in capital expenditure dedicated to AI data centers and custom hardware in recent earnings disclosures.",
+      "inference": "Sustained high hardware capex provides direct revenue visibility for semiconductor suppliers and specialized equipment vendors, though short-term software monetization margins face elevated scrutiny.",
+      "keyUncertainty": "Return on invested capital (ROIC) realization velocity and potential hardware supply chain bottlenecks."
+    },
+    {
+      "title": "HK Tech Heavyweights & Southbound Capital Inflows",
+      "fact": "Southbound net inflows via Stock Connect surpassed HK$6.2 billion, concentrating purchases in platform economy leaders including Tencent and Meituan following active corporate share buybacks.",
+      "inference": "Strong institutional buying from mainland funds serves as a liquidity buffer against broad foreign capital realignments, anchoring valuation multiples for the Hang Seng Tech Index.",
+      "keyUncertainty": "Recovery momentum in domestic retail sales and upcoming quarterly earnings guidance."
+    },
+    {
+      "title": "Federal Reserve Rate Expectations & Yield Impact",
+      "fact": "US macro inflation indicators cooled in line with consensus targets, keeping federal funds futures pricing at a high probability for a rate cut in the upcoming FOMC meeting.",
+      "inference": "Easing risk-free yields enhances valuation headroom for high-growth tech equities and improves interest-rate-sensitive assets in Hong Kong, including real estate investment trusts.",
+      "keyUncertainty": "Potential post-election fiscal policy shifts and service-sector inflation stickiness."
+    },
+    {
+      "title": "China Real Estate & Financial Sector Risk Transmission",
+      "fact": "Mainland financial regulators announced expanded credit backing for qualifying developers, leading to intraday gains among major HK-listed mainland banks and property counters.",
+      "inference": "Direct liquidity support reduces systemic credit default risks for lending institutions, stabilizing non-performing loan (NPL) ratio expectations.",
+      "keyUncertainty": "Actual home buyer transaction volume recovery across Tier 1 and Tier 2 cities."
+    }
+  ]
+}
