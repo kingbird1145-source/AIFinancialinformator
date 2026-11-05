@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Semiconductor & AI Infrastructure",
+      "fact": "Leading US chipmakers reported Q2 server AI processor shipments up 35% YoY, with major tech giants increasing 2026 capex guidance by an average of 12%.",
+      "inference": "Sustained hardware demand will continue to support valuations across the broader AI supply chain, benefiting both upstream foundry services and enterprise software integrators.",
+      "keyUncertainty": "Potential export restriction updates and power grid capacity constraints delaying data center deployment timelines."
+    },
+    {
+      "title": "HK Big Tech & Southbound Capital Flows",
+      "fact": "Hang Seng Tech Index gained 1.8% today led by major platform giants, with net Southbound inflows via Stock Connect exceeding HKD 4.5 billion for the third consecutive session.",
+      "inference": "Mainland institutional capital is actively re-weighting into HK tech equities, driven by attractive dividend yields, aggressive share buyback programs, and valuation bottoming signals.",
+      "keyUncertainty": "Underlying domestic macroeconomic consumption momentum and geopolitical policy shifts targeting Chinese tech firms."
+    },
+    {
+      "title": "US Macro Strategy & Federal Reserve Rate Outlook",
+      "fact": "US core PCE inflation print aligned with market expectations at 2.6% YoY, while weekly initial jobless claims rose slightly to 235k.",
+      "inference": "Reinforces market pricing for a potential 25 bps rate cut in the upcoming FOMC meeting, dampening 10-year Treasury yields and providing liquidity relief to growth equities.",
+      "keyUncertainty": "Sticky service-sector inflation trends and potential volatility in global commodity prices affecting near-term inflation trajectories."
+    },
+    {
+      "title": "China/HK New Energy Vehicles (NEVs) & Supply Chain",
+      "fact": "Leading Chinese EV manufacturers announced record overseas shipment figures for Q2, accompanied by new localized battery assembly partnerships in Europe and Southeast Asia.",
+      "inference": "Global market expansion strategies are mitigating domestic price war pressures, driving margin stabilization for top-tier EV brands and component suppliers.",
+      "keyUncertainty": "Escalating international trade tariff disputes and regulatory compliance hurdles in primary export markets."
+    }
+  ]
+}
