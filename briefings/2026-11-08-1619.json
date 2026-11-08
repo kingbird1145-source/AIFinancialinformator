@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Mega-Cap Tech & AI Infrastructure Spending",
+      "fact": "Major US technology firms announced a collective 25% year-over-year increase in Q2 capital expenditures dedicated to AI hardware and cloud data centers.",
+      "inference": "Sustained enterprise AI infrastructure spending underpins revenue momentum for semiconductor makers and supply chain partners, though margin pressures may intensify for cloud platforms.",
+      "keyUncertainty": "Monetization timeline for enterprise generative AI services and potential supply chain bottlenecks in advanced packaging."
+    },
+    {
+      "title": "Hong Kong Internet Sector & Southbound Capital Flows",
+      "fact": "The Hang Seng Tech Index rallied 1.8% alongside Southbound net inflows exceeding HKD 4.5 billion via the Stock Connect channel.",
+      "inference": "Incremental liquidity from mainland institutional investors is helping re-rate valuation multiples across major Chinese internet platforms following stable Q2 earnings previews.",
+      "keyUncertainty": "Sustainability of domestic macroeconomic stimulus and broader recovery in mainland consumer confidence."
+    },
+    {
+      "title": "Federal Reserve Policy Expectations & Global Liquidity",
+      "fact": "US core inflation data matched consensus expectations at 2.6% YoY, reinforcing market pricing for a September Federal Reserve rate cut.",
+      "inference": "A softening interest rate environment reduces borrowing costs globally, providing valuation relief for interest-rate-sensitive equities across both US and emerging Asian markets.",
+      "keyUncertainty": "Potential resurfacing of energy price volatility due to geopolitical friction affecting global inflation trajectories."
+    }
+  ]
+}
