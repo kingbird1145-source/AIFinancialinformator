@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US & HK Artificial Intelligence & Semiconductor Hardware",
+      "fact": "Major cloud service providers (CSPs) increased hardware capital expenditure guidance while Asian supply chains reported elevated wafer utilization rates for high-performance computing nodes.",
+      "inference": "Short-term momentum favors upstream semiconductor equipment and advanced packaging manufacturers across US and HK tech lists, reinforcing high valuation support.",
+      "keyUncertainty": "Enterprise ROI timeline for downstream AI application deployment and potential adjustments to international trade regulatory frameworks."
+    },
+    {
+      "title": "US Macroeconomic Rates & Global Liquidity Sentiment",
+      "fact": "US core inflation and labor market data indicate stabilizing economic activity, shifting interest rate futures towards pricing in monetary easing later in the year.",
+      "inference": "Easing long-term Treasury yields reduce discount-rate pressures on high-duration growth equities, facilitating sustained capital inflows into foreign and HK-listed tech shares.",
+      "keyUncertainty": "Potential sticky headline inflation resurgence driven by energy commodity fluctuations."
+    },
+    {
+      "title": "Hong Kong Internet & E-Commerce Sector Repricing",
+      "fact": "Leading HK-listed platform enterprises expanded disciplined capital allocation programs, emphasizing share buybacks and margin optimization over subsidies.",
+      "inference": "Enhanced free cash flow generation and shareholder return yields provide a solid valuation floor for large-cap Hang Seng Tech constituents.",
+      "keyUncertainty": "Overall pace of domestic retail consumption growth and competitive intensity in local services."
+    }
+  ]
+}
