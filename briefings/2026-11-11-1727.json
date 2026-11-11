@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Megacap Tech & Semiconductor Momentum",
+      "fact": "NVIDIA and US semiconductor peers extended gains following strong cloud infrastructure demand signals, while Big Tech firms reaffirmed elevated 2026 AI capital expenditure plans.",
+      "inference": "Short-term momentum favors AI hardware supply chains, supporting sustained earnings growth expectations for North American technology indices.",
+      "keyUncertainty": "Potential margin compression if monetization timelines for enterprise AI applications lag aggressive capex commitments."
+    },
+    {
+      "title": "HK Tech & Chinese Internet Platform Dynamics",
+      "fact": "The Hang Seng Tech Index consolidated near key technical resistance as major internet giants including Tencent and Alibaba executed ongoing daily share buybacks.",
+      "inference": "Corporate buybacks provide a resilient valuation floor, though broader upside remains reliant on clearer macroeconomic recovery metrics in domestic consumer spending.",
+      "keyUncertainty": "Persisting structural headwinds in domestic consumption and geopolitical regulatory scrutiny regarding cross-border technology transfers."
+    },
+    {
+      "title": "Federal Reserve Monetary Policy & Treasury Yield Movements",
+      "fact": "US 10-year Treasury yields stabilized around 4.15% as recent economic indicators signaled moderate labor market cooling alongside persistent core inflation sticky points.",
+      "inference": "Markets continue to price in a gradual rate-cutting path, keeping global equity valuations supported while limiting rapid multiple expansion.",
+      "keyUncertainty": "Unexpected inflation spikes in upcoming PCE data that could force the Fed to delay projected easing cycles."
+    },
+    {
+      "title": "Hong Kong EV & Automotive Supply Chains",
+      "fact": "Leading Hong Kong-listed electric vehicle manufacturers reported steady July delivery volumes alongside expanding export shipments to Southeast Asian and European markets.",
+      "inference": "International expansion strategies are increasingly becoming critical growth drivers to offset fierce price competition within the domestic Chinese EV market.",
+      "keyUncertainty": "Imposition of elevated tariff barriers and regulatory hurdles in foreign destination markets."
+    }
+  ]
+}
