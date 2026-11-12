@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Artificial Intelligence & Semiconductor Sector",
+      "fact": "Major US tech hardware companies reported sustained cloud infrastructure capex expansion, pushing key chipmakers higher while broader US indices traded mixed.",
+      "inference": "High baseline earnings expectations leave semiconductor valuations sensitive to macroeconomic guidance and Fed interest rate path signals.",
+      "keyUncertainty": "Federal Reserve policy rate trajectory and potential export restriction updates."
+    },
+    {
+      "title": "Hong Kong Internet & Platform Economy",
+      "fact": "Southbound capital via Stock Connect recorded net buying in HK-listed tech giants following positive cross-border gaming and cloud revenue releases.",
+      "inference": "Earnings stability and share buyback acceleration provide valuation support for the Hang Seng Tech Index amidst global market rebalancing.",
+      "keyUncertainty": "Pace of Chinese domestic retail sales recovery and broader geopolitical dynamics."
+    },
+    {
+      "title": "Global Electric Vehicles & Clean Energy",
+      "fact": "Leading Chinese EV makers achieved record mid-year delivery totals, whereas US legacy automotive OEMs trimmed EV production targets due to cost pressure.",
+      "inference": "Competitive advantages in battery supply chain and cost structure continue to favor leading HK-listed EV manufacturers over international peers.",
+      "keyUncertainty": "Implementation of international trade tariffs and shifting regional subsidy policies."
+    }
+  ]
+}
