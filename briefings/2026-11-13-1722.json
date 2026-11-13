@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Mega-Cap Tech & AI Infrastructure Capex",
+      "fact": "US cloud providers reported strong enterprise AI revenue growth while increasing full-year capital expenditure guidance for data center expansion and advanced AI accelerators.",
+      "inference": "Sustained capex expansion reinforces earnings visibility for semiconductor suppliers and supply-chain hardware partners in both US and Asian semiconductor ecosystems.",
+      "keyUncertainty": "Risk of margin compression among hyperscalers if enterprise AI monetization curves lag heavy capital expenditure and infrastructure depreciation costs."
+    },
+    {
+      "title": "Hong Kong Tech & China Internet Valuation Rerating",
+      "fact": "Hang Seng Tech Index gained as major internet platforms executed expanded share buyback programs and reported accelerated growth in cloud and international e-commerce segments.",
+      "inference": "Enhanced capital return yields combined with stabilized core earnings provide a defensive buffer, attracting institutional inflows back into cash-generative HK tech equities.",
+      "keyUncertainty": "Potential regulatory shifts in cross-border data transfers and persistent softness in broader Chinese domestic consumer discretionary spending."
+    },
+    {
+      "title": "Fed Rate Trajectory & Hong Kong Banking Liquidity",
+      "fact": "US macroeconomic indicators showed cooling core inflation alongside steady labor metrics, keeping market expectations aligned for monetary easing in the second half of the year.",
+      "inference": "Expectations of lower US benchmark rates alleviate pressure on the HKD peg, facilitating a decline in HIBOR and reducing corporate borrowing costs for HK-listed equities.",
+      "keyUncertainty": "Resurgent global inflationary risks driven by geopolitical supply chain disruptions could delay policy rate cuts, prolonging tight liquidity conditions."
+    }
+  ]
+}
