@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech & AI Hardware Expenditure",
+      "fact": "Major US cloud hyperscalers reported quarterly capex increases driven by AI infrastructure building, while semiconductor stocks experienced mixed performance due to supply-chain delivery timelines.",
+      "inference": "Strong hardware demand supports foundational chipmakers, but investors are increasingly demanding visible return on investment from enterprise AI applications.",
+      "keyUncertainty": "Monetization speed of downstream enterprise software and potential margin compression from high depreciation costs."
+    },
+    {
+      "title": "Hong Kong Internet Giants & Southbound Capital Flows",
+      "fact": "The Hang Seng Tech Index saw increased trading activity with net Southbound inflows targeting leading platform economy and EV auto companies during market pullbacks.",
+      "inference": "Mainland institutional investors continue to deploy capital into HK-listed tech leaders showing strong buyback programs and stabilizing revenue growth.",
+      "keyUncertainty": "Persisting competition in domestic e-commerce price wars and potential foreign capital allocation shifts based on global macro signals."
+    },
+    {
+      "title": "Federal Reserve Rate Outlook & Global Liquidity",
+      "fact": "U.S. treasury yields drifted lower following fresh inflation and employment indicators that signaled a gradual cooling of the economy.",
+      "inference": "Lower yield pressures tend to provide valuation relief for growth equities in both US and HK markets, encouraging risk-on sentiment in dividend and rate-sensitive assets.",
+      "keyUncertainty": "Sticky core service inflation data that could cause Fed officials to delay monetary easing expectations."
+    }
+  ]
+}
