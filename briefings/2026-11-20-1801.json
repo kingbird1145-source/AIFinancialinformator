@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Big Tech AI Infrastructure CapEx",
+      "fact": "Major US tech companies maintain high capital expenditure guidance for AI infrastructure, driving strong quarterly shipments for cloud hardware suppliers.",
+      "inference": "Semiconductor and server supply chains will continue to enjoy strong revenue support in the near term, though margin pressure may increase for hyperscalers.",
+      "keyUncertainty": "Monetization pace and software ROI timeline for enterprise AI adoption."
+    },
+    {
+      "title": "HK Internet Platform Buybacks & Local Services",
+      "fact": "Leading Hong Kong-listed internet majors sustained aggressive share repurchase programs alongside steady expansion in core local commercial operations.",
+      "inference": "Accelerated buybacks offer downside valuation support while firms pivot toward higher-efficiency core business segments.",
+      "keyUncertainty": "Overall pace of domestic macroeconomic consumer confidence recovery."
+    },
+    {
+      "title": "US Monetary Policy & Treasury Yield Dynamics",
+      "fact": "US inflation metrics showed further moderation, stabilizing the 10-year Treasury yield as rate-cut expectations re-anchor for upcoming FOMC meetings.",
+      "inference": "Easing rate pressures create favorable liquidity conditions for growth stocks and capital inflows into Asia-Pacific equity markets.",
+      "keyUncertainty": "Potential sticky service sector inflation or energy price volatility disrupting easing trajectories."
+    }
+  ]
+}
