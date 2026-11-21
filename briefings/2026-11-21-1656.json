@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "Hong Kong Tech Sector & AI Infrastructure Investment",
+      "fact": "Major Hong Kong-listed technology conglomerates reported increased capital expenditure in Q2 dedicated to domestic cloud data centers and proprietary large language model integration.",
+      "inference": "Near-term operating margins may experience temporary compression due to heavy CapEx, but long-term enterprise software monetization potential improves for market leaders.",
+      "keyUncertainty": "Persistent semiconductor supply constraints and the commercial conversion speed of generative AI applications."
+    },
+    {
+      "title": "US Federal Reserve Rate Path & Mega-Cap Tech Valuations",
+      "fact": "US equity markets traded sideways during Asian hours as resilient labor and core inflation data lowered market consensus for aggressive Fed rate cuts in H2.",
+      "inference": "Elevated Treasury yields may trigger short-term valuation consolidation across high-multiple US growth stocks, prompting temporary sector rotation into cash-generative defensives.",
+      "keyUncertainty": "Upcoming FOMC policy statement tone and Q2 mega-cap tech earnings guidance."
+    },
+    {
+      "title": "HK-Listed EV Manufacturers & Price Competition",
+      "fact": "Several HK-listed Chinese electric vehicle OEMs introduced revamped mid-tier models with upgraded autonomous driving capabilities at competitive price points.",
+      "inference": "Price competition will maintain pressure on gross margins across the sector, accelerating market share consolidation toward vertically integrated industry leaders.",
+      "keyUncertainty": "Evolution of international trade tariffs and domestic consumer spending sentiment in lower-tier markets."
+    }
+  ]
+}
