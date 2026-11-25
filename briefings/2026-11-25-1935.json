@@ -1,0 +1,34 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Mega-Cap Tech & AI Semiconductors",
+      "fact": "Leading US cloud hyper-scalers reported elevated capital expenditure targets dedicated to AI server infrastructure, driving continued upward earnings revisions for major semiconductor vendors.",
+      "inference": "Sustained capex spend reinforces valuation support for hardware supply chain leaders, though market focus is gradually shifting toward profitability metrics and free cash flow conversion.",
+      "keyUncertainty": "Enterprise AI monetization trajectory and potential supply chain bottlenecks in advanced packaging."
+    },
+    {
+      "title": "HK Internet & Platform Economy",
+      "fact": "Major Hong Kong-listed tech leaders expanded active share buyback programs while integrating localized generative AI tools to improve user retention and advertisement targeting efficiency.",
+      "inference": "Aggressive capital return strategies establish a valuation floor, while operational efficiency gains help cushion revenue pressure from cautious domestic consumer sentiment.",
+      "keyUncertainty": "Price competition dynamics in domestic e-commerce services and potential regulatory developments in cross-border trade."
+    },
+    {
+      "title": "US Monetary Policy & Liquidity",
+      "fact": "Recent US macroeconomic prints indicate moderating core inflation alongside stable labor market metrics, leading futures markets to price in high probability of near-term rate cuts.",
+      "inference": "Easing yield environment reduces capital costs for mid-cap growth equities and enhances global cross-border capital allocations toward Asian emerging markets.",
+      "keyUncertainty": "Persistence of services sector inflation and fiscal supply impact from US Treasury issuance schedules."
+    },
+    {
+      "title": "HK High-Yield & State-Owned Enterprises",
+      "fact": "Southbound capital via Stock Connect demonstrated consistent net inflows into high-dividend Hong Kong telecommunications and energy SOEs during intraday trading.",
+      "inference": "Mainland institutional investors continue favoring defensive assets with transparent payout ratios to hedge against macroeconomic volatility and low domestic bond yields.",
+      "keyUncertainty": "HIBOR volatility affecting local liquidity conditions and foreign exchange fluctuations in USD/HKD peg maintenance."
+    }
+  ]
+}
