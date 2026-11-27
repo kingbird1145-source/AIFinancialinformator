@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-07-24T17:44:00+08:00",
+  "coverageWindow": {
+    "start": "2026-07-24T08:00:00+08:00",
+    "end": "2026-07-24T17:44:00+08:00"
+  },
+  "timezone": "Asia/Hong_Kong",
+  "marketLayer": [
+    {
+      "title": "US Tech & AI Supply Chain Expansion",
+      "fact": "Leading US hyperscalers reported a 25% year-over-year increase in quarterly AI capital expenditures, boosting semiconductor and server hardware providers.",
+      "inference": "Sustained hardware demand continues to anchor bullish sentiment across US large-cap tech, delivering positive spillover to Asia-Pacific hardware exporters.",
+      "keyUncertainty": "Risk of valuation fatigue and supply chain bottlenecks limiting short-term shipment fulfillment."
+    },
+    {
+      "title": "HK Internet & E-commerce Profitability Focus",
+      "fact": "Major Hong Kong-listed tech platforms announced expanded share buyback initiatives alongside improved operating margins across cloud and international operations.",
+      "inference": "Capital return strategies are successfully establishing a valuation floor, accelerating Southbound capital inflows through the Stock Connect channel.",
+      "keyUncertainty": "Persistently weak domestic retail sales figures impacting forward core revenue growth."
+    },
+    {
+      "title": "Fed-PBOC Policy Alignment & Rate Environment",
+      "fact": "US 10-year Treasury yields stabilized following soft labor market data, while the PBOC conducted net liquidity injections through medium-term lending facilities.",
+      "inference": "Easing yield pressures create a favorable liquidity backdrop for high-yield Hong Kong equities and interest-rate-sensitive US growth stocks.",
+      "keyUncertainty": "Potential sticky service sector inflation delaying anticipated interest rate adjustments."
+    }
+  ]
+}
